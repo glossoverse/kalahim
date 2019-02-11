@@ -12,6 +12,8 @@ Consonants:
 | approximant | w      | l      | j       |       |         |
 | trill       |        | r      |         |       |         |
 
+* /w/ is found only as the second member of consonant clusters
+
 Vowels:
 
 |      | front | central | back |
@@ -29,7 +31,7 @@ Consonants:
 | stop        | p b    | t d    | c j     | k g   |         |
 | fricative   | f      | s      | sh      |       | h       |
 | nasal       | m      | n      |         |       |         |
-| approximant | w      | l      | y       |       |         |
+| approximant | u      | l      | y/i     |       |         |
 | trill       |        | r      |         |       |         |
 
 Vowels:
@@ -40,7 +42,9 @@ Vowels:
 | mid  | e     |         | o    |
 | low  |       | a       |      |
 
-* [i] is written as <i> and <y> for historical reasons.
+* [i] is written as i and y for historical reasons.
+* [j] is written as y when is the only syllable onsets, i otherwise
+  * *duyol* but *catie*
 
 ## Morphology
 
@@ -58,3 +62,33 @@ Vowels:
 | 3plm   | reik-ie-su  | reik-a-su  | reik-uo-su  | reik-ily-su  |
 | 3plf   | reik-ie-shi | reik-a-shi | reik-uo-shi | reik-ily-shi |
 | 3pln   | reik-ie-sah | reik-a-sah | reik-uo-sah | reik-ily-sah |
+
+### Noun
+
+Nouns end either in a vowel or a consonant.
+
+| vowel         | singular       |   plural       |
+|---------------|----------------|----------------|
+| nominative    | [varies]       | -m             |
+| accusative    | -l [arc. -lu]  | -le [arc.-leo] |
+| predicative   | -sse           | -nes(se)       |
+| dative        | -vo            | -vi            |
+| instrumental  | -ru [arc.-kru] | -du [arc.-dru] |
+| genitive      | -ni [arc.-nig] | -nek           |
+| locative      | -ja [arc.-jai] | -ce            |
+| allative      | -ba            | -pe            |
+| ablative      | -da [arc.-de]  | -te            |
+| vocative      | -ku            | -ho            |
+
+| consonant     | singular        | plural           |
+|---------------|-----------------|------------------|
+| nominative    | [varies]        | -am              |
+| accusative    | -olu            | -elo             |
+| predicative   | -es [arc.-esse] | -enes            |
+| dative        | -ol             | -ive             |
+| instrumental  | -ur [arc.-ruk]  | -udu [arc.-udru] |
+| genitive      | -en             | -ek              |
+| locative      | -ija            | -ice             |
+| allative      | -iba            | -ipe             |
+| ablative      | -ida [arc.-eda] | -ete             |
+| vocative      | -uk             | -oho             |
