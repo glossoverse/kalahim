@@ -46,6 +46,10 @@ Vowels:
 * [j] is written as y when is the only syllable onsets, i otherwise
   * *duyol* but *catie*
 
+### Phonotactics
+
+Kalahim features consonant clusters both as syllable onsets and offsets. Any consonant, except /tʃ/ and /dʒ/, can be word-final.
+
 ## Morphology
 
 ### Verb
@@ -63,9 +67,15 @@ Vowels:
 | 3plf   | reik-ie-shi | reik-a-shi | reik-uo-shi | reik-ily-shi |
 | 3pln   | reik-ie-sah | reik-a-sah | reik-uo-sah | reik-ily-sah |
 
+#### Copula
+
+There are two copulas in Kalahim, *aum-* and *ash-*. The first is used with the predicative case and refers to a permanent feature of the subject. For example, *om-a-go ned-es* 'I am (a) man'. *ash-* is used with temporary states and feelings, like in *om-a-lah cul* 'it is sweet'.
+
 ### Noun
 
-Nouns end either in a vowel or a consonant.
+Nouns end either in a vowel or a consonant and follow their respective class declension. Archaic forms are given in square brackets. The accusative plural ending has two forms, -*nes* and -*nesse* which tend to be respectively the standard in the spoken and written language.
+
+The predicative is used with the verb *aum-* 'to be', which has an existential meaning (while *ash*- is more generally stative).
 
 | vowel         | singular       |   plural       |
 |---------------|----------------|----------------|
