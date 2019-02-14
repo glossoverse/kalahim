@@ -71,7 +71,11 @@ The general word order is SVO. Complementisers follow the noun they refer too, b
 | 3plf   | reik-ie-shi | reik-a-shi | reik-uo-shi | reik-ily-shi |
 | 3pln   | reik-ie-sah | reik-a-sah | reik-uo-sah | reik-ily-sah |
 
-Passive is obtained by adding the suffix *-s* last. *Donegan-ie-go-s ni-de* save-PST-1s-PASS 2s-ABL 'I was saved by you.'
+Passive is obtained by adding the suffix *-s* last.
+
+    donegan-ie-go-s   ni-de
+    save-PST-1s-PASS  2s-ABL
+    'I was saved by you.'
 
 #### Copula
 
@@ -139,3 +143,18 @@ The predicative is used with the verb *aum-* 'to be', which has an existential m
 | allative      | -iba            | -ipe             |
 | ablative      | -ida [arc.-eda] | -ete             |
 | vocative      | -uk             | -oho             |
+
+## Glossed examples
+
+(1) Ashani lof namshal gonji shimalah ki mallabalah vinedolu, e Firniluk goniguk!
+
+    ash-a-ni   lof   namsha-l     gonji   shim-a-lah
+    be-PRS-2s  like  star-ACC:SG  so.much shine-PRS-3sn
+
+    ki    mallab-a-lah    vined-olu
+    CONJ  obscure-PRS-3sn other-ACC:PL
+
+    e   Firnil-uk      gonig-uk
+    oh  Firnil-VOC:SG  my-VOC:SG
+
+    'You are like a star that is so bright to obscure the others, oh my Firnil!'
