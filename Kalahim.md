@@ -84,15 +84,25 @@ The general word order is SVO. Complementisers follow the noun they refer to, bu
 | 3plf   | reik-ie-shi | reik-a-shi | reik-uo-shi | reik-ily-shi |
 | 3pln   | reik-ie-sah | reik-a-sah | reik-uo-sah | reik-ily-sah |
 
+Verbs ending in -*u* (/w/) and -*i* (/j/) have -*e* and -*o* for past and future suffixes. Verbs ending in -*i* have -*yly* for hypothetical.
+
 Passive is obtained by adding the suffix *-s* last.
 
     donegan-ie-go-s   ni-de
     save-PST-1s-PASS  2s-ABL
     'I was saved by you.'
 
+Present participles are formed with the suffix -*am* which is attached to the verb root and they can be declined according the to consonant declination.
+
+*Catieni shonamen*
+
+    catie-ni      shon-am-en
+    person-GEN:SG think-PTCP-GEN:SG
+    'Of the thinking person.'
+
 #### Copula
 
-There are two copulas in Kalahim, *aum-* and *ash-*. The first is used with the predicative case and refers to a permanent feature of the subject. For example, *om-a-go ned-es* 'I am (a) man'. *ash-* is used with temporary states and feelings, like in *om-a-lah cul* 'it is sweet'.
+There are two copulas in Kalahim, *aum-* and *ash-*. The first is used with the predicative case and refers to a permanent or substantial feature of the subject. For example, *om-a-go ned-es* 'I am (a) man'. *ash-* is used with temporary states and feelings, like in *ash-a-lah cul* 'it is sweet'.
 
 | aum-     | past     | present  | future   | hypothetical |
 |---------|----------|----------|----------|-----------|
@@ -163,31 +173,45 @@ The predicative is used with the verb *aum-* 'to be', which has an existential m
 
 *Kabasiesu nai korashiego.*
 
-  kabas-ie-su   nai korash-ie-go
-  know-PST-3plm SUB be.happy-PST-1s
-  'They knew I was/have been happy.'
+    kabas-ie-su   nai korash-ie-go
+    know-PST-3plm SUB be.happy-PST-1s
+    'They knew I was/have been happy.'
+
+*Tokago nai noirgah-a-go nil.*
+
+    tok-a-go    nai sibu-a-go  ni-l
+    want-PRS-1s SUB meet-PRS-1s    2s-ACC:SG
+    'I want to meet you.'
+
+Subject content clauses are preceded by an independent clause of the form 'be.PRED + ADJ/PTCP'.
+
+*Omalah pushaitam nai sibuemin.*
+
+    om-a-lah        pushait-am  nai sibu-o-min
+    be.PRED-PRS-3sn scare-PTCP  SUB meet-PST-1pl
+    'It scares me that we will meet.'
 
 **Relative clauses** are introduced by *ki* with non-subject pronouns, and by zero if the pronoun is the subject of the relative clause. The pronoun in the clause is in the case and position if would be if the clause were independent.
 
 *Nem korashalo mol noirgahalo lonu voinalo.*
 
-  nem       korash-a-lo     mol   noirgah-a-lo  lonu    voin-a-lo
-  yesterday be.hapy-PRS-3sm GRND  see-PRS-3sm   boy.NOM play-PRS-3sm
-  'Yesterday he was happy to see the boy who was playing.'
+    nem       korash-a-lo     mol   noirgah-a-lo  lonu    voin-a-lo
+    yesterday be.hapy-PRS-3sm GRND  see-PRS-3sm   boy.NOM play-PRS-3sm
+    'Yesterday he rejoiced in seeing the boy who was playing.'
 
-Cf. with the content clause *Nem korashalo mol noirgahalo nai lonu voinalo* 'Yesterday he was happy to see that the boy was playing.'
+Cf. with the content clause *Nem korashalo mol noirgahalo nai lonu voinalo* 'Yesterday he rejoiced in seeing that the boy was playing.'
 
 *Firkiniego catieru ki noirgahieni laholu.*
 
-  firkin-ie-go  catie-ru        ki  noirgah-ie-ni lah-olu
-  speak-PST-1s  person-INST:SG  SUB see-PST-2s    3sn-ACC:SG
-  'I spoke with the person you saw.'
+    firkin-ie-go  catie-ru        ki  noirgah-ie-ni lah-olu
+    speak-PST-1s  person-INST:SG  SUB see-PST-2s    3sn-ACC:SG
+    'I spoke with the person you saw.'
 
 *Noirgahiego catiel ki firkinieni lahur.*
 
-  noirgah-ie-go catie-l       ki  firkin-ie-ni  lah-ur
-  see-PST-1s    person-ACC:SG SUB speak-PST-2s  3sn-INST:SG
-  'I saw the person you spoke to.'
+    noirgah-ie-go catie-l       ki  firkin-ie-ni  lah-ur
+    see-PST-1s    person-ACC:SG SUB speak-PST-2s  3sn-INST:SG
+    'I saw the person you spoke to.'
 
 ## Glossed examples
 
