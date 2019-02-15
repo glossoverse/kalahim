@@ -22,9 +22,22 @@ Vowels:
 | mid  | e     |         | o    |
 |      |       | a       |      |
 
+Diphthongs: ei, eu, oi, ou, ai, au
+
 ### Phonotactics
 
 Kalahim features consonant clusters both as syllable onsets and offsets. Any consonant, except /tʃ/ and /dʒ/, can be word-final.
+
+Allowed clusters:
+
+* sp, st, sk, sl, (sr), sw, sj
+* ʃp, ʃt, ʃk, ʃl, (ʃr), ʃw, ʃj
+* fl, fr, fw, fj
+* hw, hj
+* mw, mj
+* nw, nj
+* rw, rj
+* lw, lj
 
 ## Writing system
 
@@ -54,7 +67,7 @@ Vowels:
 
 ### Word order
 
-The general word order is SVO. Complementisers follow the noun they refer too, but adjectives precede them. *Blin manai* 'the strong warrior'.
+The general word order is SVO. Complementisers follow the noun they refer to, but adjectives precede them. *Blin manai* 'the strong warrior'.
 
 ### Verb
 
@@ -144,9 +157,41 @@ The predicative is used with the verb *aum-* 'to be', which has an existential m
 | ablative      | -ida [arc.-eda] | -ete             |
 | vocative      | -uk             | -oho             |
 
+### Subordination
+
+**Content clauses** are introduced by the particle *nai*.
+
+*Kabasiesu nai korashiego.*
+
+  kabas-ie-su   nai korash-ie-go
+  know-PST-3plm SUB be.happy-PST-1s
+  'They knew I was/have been happy.'
+
+**Relative clauses** are introduced by *ki* with non-subject pronouns, and by zero if the pronoun is the subject of the relative clause. The pronoun in the clause is in the case and position if would be if the clause were independent.
+
+*Nem korashalo mol noirgahalo lonu voinalo.*
+
+  nem       korash-a-lo     mol   noirgah-a-lo  lonu    voin-a-lo
+  yesterday be.hapy-PRS-3sm GRND  see-PRS-3sm   boy.NOM play-PRS-3sm
+  'Yesterday he was happy to see the boy who was playing.'
+
+Cf. with the content clause *Nem korashalo mol noirgahalo nai lonu voinalo* 'Yesterday he was happy to see that the boy was playing.'
+
+*Firkiniego catieru ki noirgahieni laholu.*
+
+  firkin-ie-go  catie-ru        ki  noirgah-ie-ni lah-olu
+  speak-PST-1s  person-INST:SG  SUB see-PST-2s    3sn-ACC:SG
+  'I spoke with the person you saw.'
+
+*Noirgahiego catiel ki firkinieni lahur.*
+
+  noirgah-ie-go catie-l       ki  firkin-ie-ni  lah-ur
+  see-PST-1s    person-ACC:SG SUB speak-PST-2s  3sn-INST:SG
+  'I saw the person you spoke to.'
+
 ## Glossed examples
 
-(1) Ashani lof namshal gonji shimalah ki mallabalah vinedolu, e Firniluk goniguk!
+*Ashani lof namshal gonji shimalah ki mallabalah vinedolu, e Firniluk goniguk!*
 
     ash-a-ni   lof   namsha-l     gonji   shim-a-lah
     be-PRS-2s  like  star-ACC:SG  so.much shine-PRS-3sn
