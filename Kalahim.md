@@ -1,6 +1,10 @@
-# Kalahim
+---
+title: Kalahim grammar sketch
+mainfont: Brill
+numbersections: true
+---
 
-## Phonology
+# Phonology
 
 Consonants:
 
@@ -24,7 +28,7 @@ Vowels:
 
 Diphthongs: ei, eu, oi, ou, ai, au
 
-### Phonotactics
+## Phonotactics
 
 Kalahim features consonant clusters both as syllable onsets and offsets. Any consonant, except /tʃ/ and /dʒ/, can be word-final.
 
@@ -39,7 +43,7 @@ Allowed clusters:
 * rw, rj
 * lw, lj
 
-## Writing system
+# Writing system
 
 Consonants:
 
@@ -63,13 +67,13 @@ Vowels:
 * [j] is written as y when is the only syllable onsets, i otherwise
   * *duyol* but *catie*
 
-## Morphosyntax
+# Morphosyntax
 
-### Word order
+## Word order
 
 The general word order is SVO. Complementisers follow the noun they refer to, but adjectives precede them. *Blin manai* 'the strong warrior'.
 
-### Verb
+## Verb
 
 | Active | past   | present | future    | hypothetical  |
 |--------|-----------|----------|-----------|------------|
@@ -100,7 +104,7 @@ Present participles are formed with the suffix -*am* which is attached to the ve
     person-GEN:SG think-PTCP-GEN:SG
     'Of the thinking person.'
 
-#### Copula
+### Copula
 
 There are two copulas in Kalahim, *aum-* and *ash-*. The first is used with the predicative case and refers to a permanent or substantial feature of the subject. For example, *om-a-go ned-es* 'I am (a) man'. *ash-* is used with temporary states and feelings, like in *ash-a-lah cul* 'it is sweet'.
 
@@ -135,7 +139,7 @@ The verb *om*- which means 'to be (locative)' derives from *aum-* although it do
 * *Om-a-go Limlin'-ija* 'I am in Limlin'
 * *Om-ie-lah jeki-nes* 'There were (some) monkeys'
 
-### Noun
+## Noun
 
 Nouns end either in a vowel or a consonant and follow their respective class declension. Archaic forms are given in square brackets. The accusative plural ending has two forms, -*nes* and -*nesse* which tend to be respectively the standard in the spoken and written language.
 
@@ -167,7 +171,7 @@ The predicative is used with the verb *aum-* 'to be', which has an existential m
 | ablative      | -ida [arc.-eda] | -ete             |
 | vocative      | -uk             | -oho             |
 
-### Subordination
+## Subordination
 
 **Content clauses** are introduced by the particle *nai*.
 
@@ -213,7 +217,7 @@ Cf. with the content clause *Nem korashalo mol noirgahalo nai lonu voinalo* 'Yes
     see-PST-1s    person-ACC:SG SUB speak-PST-2s  3sn-INST:SG
     'I saw the person you spoke to.'
 
-## Glossed examples
+# Glossed examples
 
 *Ashani lof namshal gonji shimalah ki mallabalah vinedolu, e Firniluk goniguk!*
 
