@@ -22,6 +22,10 @@ Vowels:
 | mid  | e     |         | o    |
 |      |       | a       |      |
 
+### Phonotactics
+
+Kalahim features consonant clusters both as syllable onsets and offsets. Any consonant, except /tʃ/ and /dʒ/, can be word-final.
+
 ## Writing system
 
 Consonants:
@@ -45,10 +49,6 @@ Vowels:
 * [i] is written as i and y for historical reasons.
 * [j] is written as y when is the only syllable onsets, i otherwise
   * *duyol* but *catie*
-
-### Phonotactics
-
-Kalahim features consonant clusters both as syllable onsets and offsets. Any consonant, except /tʃ/ and /dʒ/, can be word-final.
 
 ## Morphosyntax
 
