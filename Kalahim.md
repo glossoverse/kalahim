@@ -6,7 +6,9 @@ numbersections: true
 
 # Phonology
 
-Consonants:
+## Consonants
+
+Kalahim has stops, fricatives, nasals, approximants, and a trill. Stops contrast by voicing, while the fricatives are all voiceless.
 
 |             | labial | dental | palatal | velar | glottal |
 |-------------|--------|--------|---------|-------|---------|
@@ -16,26 +18,35 @@ Consonants:
 | approximant | w      | l      | j       |       |         |
 | trill       |        | r      |         |       |         |
 
-* /w/ is found only as the second member of consonant clusters
+1. The approximant /w/ is always preceded by a consonant. For example: *amua* /amwa/, *fuanen* /fwanen/. Cf. \*\*/wana/. Historical note: Single onset /w/ was lost everywhere, and the eventual resulting vowel combination became a diphthong or simplified to a simple vowel. Examples: *reik-* 'to turn' /reik/ < \**rewik-*, *yal*- 'to sing' /jal/ < \**yawal-*.
 
-Vowels:
+## Vowels
+
+Kalahim has a five-vowel system, with high, mid, and low heights, front, central, and back backness. Note that the mid vowels are both mid-high.
 
 |      | front | central | back |
 |------|-------|---------|------|
 | high | i     |         | u    |
 | mid  | e     |         | o    |
-|      |       | a       |      |
+| low  |       | a       |      |
 
-Diphthongs: ei, eu, oi, ou, ai, au
+There are also the following diphthongs: /ei/, /eu/, /oi/, /ou/, /ai/, /au/.
 
 ## Phonotactics
 
-Kalahim features consonant clusters both as syllable onsets and offsets. Any consonant, except /tʃ/ and /dʒ/, can be word-final.
+The basic syllabic structure of Kalahim is C(C)V(C). Onsetless syllables are only permitted in word-initial position. Independent of syllabic affiliation, no more than two consecutive consonants are allowed in any position in the word.
+Any consonant, except /tʃ/ and /dʒ/, can be word-final.
 
-Allowed clusters:
+Allowed onset clusters:
 
-* sp, st, sk, sl, (sr), sw, sj
-* ʃp, ʃt, ʃk, ʃl, (ʃr), ʃw, ʃj
+* pr, pl, pw, pj
+* tr, tl, tw, tj
+* kr, kl, kw, kj, ks, kʃ
+* br, bl, bw, bj
+* dr, dl, dw, dj
+* gr, gl, gw, gj
+* sp, st, sk, sl, sw, sj
+* ʃp, ʃt, ʃk, ʃl, ʃw, ʃj
 * fl, fr, fw, fj
 * hw, hj
 * mw, mj
@@ -92,6 +103,8 @@ Verbs ending in -*u* (/w/) and -*i* (/j/) have -*e* and -*o* for past and future
 
 Passive is obtained by adding the suffix *-s* last.
 
+*Doneganiegos nide.*
+
     donegan-ie-go-s   ni-de
     save-PST-1s-PASS  2s-ABL
     'I was saved by you.'
@@ -136,12 +149,21 @@ There are two copulas in Kalahim, *aum-* and *ash-*. The first is used with the 
 
 The verb *om*- which means 'to be (locative)' derives from *aum-* although it does not have allomorphy. It is also used at the neuter to mean 'There is/are' (expletive), in which case it is used with the predicative case. *om*- follows the standard verbal conjugation.
 
-* *Om-a-go Limlin'-ija* 'I am in Limlin'
-* *Om-ie-lah jeki-nes* 'There were (some) monkeys'
+*Omago Limlin'ija.*
+
+    om-a-go         Limlin'-ija
+    be.PRED-PRS-1s  Limlin-LOC:SG
+    'I am in Limlin.'
+
+*Omielah jekines.*
+
+    om-ie-lah       jeki-nes
+    be.STA-PST-3sn  monkey-PRED:PL
+    'There were (some) monkeys'
 
 ## Noun
 
-Nouns end either in a vowel or a consonant and follow their respective class declension. Archaic forms are given in square brackets. The accusative plural ending has two forms, -*nes* and -*nesse* which tend to be respectively the standard in the spoken and written language.
+Nouns end either in a vowel or a consonant and follow their respective class declension. Archaic forms are given in square brackets. The predicative plural ending has two forms, -*nes* and -*nesse* which tend to be respectively the standard in the spoken and written language.
 
 The predicative is used with the verb *aum-* 'to be', which has an existential meaning (while *ash*- is more generally stative).
 
