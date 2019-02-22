@@ -54,6 +54,10 @@ Allowed onset clusters:
 * rw, rj
 * lw, lj
 
+## Stress
+
+Stress is intensive and it follows always on the penultimate syllable of the word in plurisyllabic words, and in the only syllable of monosyllabic words.
+
 # Writing system
 
 Consonants:
