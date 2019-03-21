@@ -2,6 +2,7 @@
 title: Kalahim grammar sketch
 mainfont: Brill
 numbersections: true
+fontsize: 11pt
 ---
 
 # Phonology
