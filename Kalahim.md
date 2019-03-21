@@ -199,7 +199,7 @@ The predicative is used with the verb *aum-* 'to be', which has an existential m
 
 ## Subordination
 
-**Content clauses** are introduced by the particle *nai*.
+**Complement clauses** are introduced by the particle *nai*. All complement clauses are finite (they always have a finite verb).
 
 *Kabasiesu nai korashiego.*
 
@@ -209,11 +209,11 @@ The predicative is used with the verb *aum-* 'to be', which has an existential m
 
 *Tokago nai noirgah-a-go nil.*
 
-    tok-a-go    nai sibu-a-go  ni-l
-    want-PRS-1s SUB meet-PRS-1s    2s-ACC:SG
+    tok-a-go    nai sibu-a-go   ni-l
+    want-PRS-1s SUB meet-PRS-1s 2s-ACC:SG
     'I want to meet you.'
 
-Subject content clauses are preceded by an independent clause of the form 'be.PRED + ADJ/PTCP'.
+Subject complement clauses are preceded by an independent clause of the form 'be.PRED + ADJ/PTCP'.
 
 *Omalah pushaitam nai sibuemin.*
 
@@ -221,26 +221,34 @@ Subject content clauses are preceded by an independent clause of the form 'be.PR
     be.PRED-PRS-3sn scare-PTCP  SUB meet-PST-1pl
     'It scares me that we will meet.'
 
-**Relative clauses** are introduced by *ki* with non-subject pronouns, and by zero if the pronoun is the subject of the relative clause. The pronoun in the clause is in the case and position if would be if the clause were independent.
+**Adverbial clauses** are introduced by a variety of adverbial subordinating conjunctions.
 
-*Nem korashalo mol noirgahalo lonu voinalo.*
+**Relative clauses** are introduced by *ki* and a resumptive pronoun is used. The resumptive pronoun in the relative clause is in the case and position it would be if the clause were independent. A nominative resumptive pronoun is generally omitted. If the antecedent is the object of the main clause and the subject of the relative close, *ki* and the subject pronoun are omitted and the antecedent is in the nominative case.
 
-    nem       korash-a-lo     mol   noirgah-a-lo  lonu    voin-a-lo
-    yesterday be.hapy-PRS-3sm GRND  see-PRS-3sm   boy.NOM play-PRS-3sm
+*Lonum ki voinalo korashalo.*
+
+    lonu-m  ki  voin-a-lo     korash-a-lo
+    boy-PL  REL play-PRS-3sm  be.happy-PRS-3sm
+    'The boy who plays is happy.'
+
+*Nem korashielo mol noirgahielo lonu voinielo.*
+
+    nem       korash-ie-lo    mol   noirgah-ie-lo lonu    voin-ie-lo
+    yesterday be.hapy-PST-3sm GRND  see-PST-3sm   boy.NOM play-PST-3sm
     'Yesterday he rejoiced in seeing the boy who was playing.'
 
-Cf. with the content clause *Nem korashalo mol noirgahalo nai lonu voinalo* 'Yesterday he rejoiced in seeing that the boy was playing.'
+Cf. with the object complement clause *Nem korashielo mol noirgahielo nai lonu voinielo* 'Yesterday he rejoiced in seeing that the boy was playing.'
 
 *Firkiniego catieru ki noirgahieni laholu.*
 
     firkin-ie-go  catie-ru        ki  noirgah-ie-ni lah-olu
-    speak-PST-1s  person-INST:SG  SUB see-PST-2s    3sn-ACC:SG
+    speak-PST-1s  person-INST:SG  REL see-PST-2s    3sn-ACC:SG
     'I spoke with the person you saw.'
 
 *Noirgahiego catiel ki firkinieni lahur.*
 
     noirgah-ie-go catie-l       ki  firkin-ie-ni  lah-ur
-    see-PST-1s    person-ACC:SG SUB speak-PST-2s  3sn-INST:SG
+    see-PST-1s    person-ACC:SG REL speak-PST-2s  3sn-INST:SG
     'I saw the person you spoke to.'
 
 # Glossed examples
