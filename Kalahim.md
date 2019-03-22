@@ -57,7 +57,7 @@ Allowed onset clusters:
 
 ## Stress
 
-Stress is intensive and it follows always on the penultimate syllable of the word in plurisyllabic words, and in the only syllable of monosyllabic words.
+Stress is intensive and it falls always on the penultimate syllable of the word in plurisyllabic words, and in the only syllable of monosyllabic words.
 
 # Writing system
 
@@ -79,17 +79,23 @@ Vowels:
 | mid  | e     |         | o    |
 | low  |       | a       |      |
 
-* [i] is written as i and y for historical reasons.
-* [j] is written as y when is the only syllable onsets, i otherwise
+* [i] is written as ⟨i⟩ and ⟨y⟩ for historical reasons.
+* [j] is written as ⟨y⟩ when is the only syllable onsets, ⟨i⟩ otherwise
   * *duyol* but *catie*
 
 # Morphosyntax
 
 ## Word order
 
-The general word order is SVO. Complementisers follow the noun they refer to, but adjectives precede them. *Blin manai* 'the strong warrior'.
+The general word order is SVO. Complements follow the noun they refer to, but adjectives precede it.
 
-## Verb
+*Blin manai acaroni.*
+
+  blin    mainai  acaro-ni
+  strong  warrior east-GEN:SG
+  'The strong warrior of the East.'
+
+## Verbs
 
 | Active | past   | present | future    | hypothetical  |
 |--------|-----------|----------|-----------|------------|
@@ -111,7 +117,7 @@ Passive is obtained by adding the suffix *-s* last.
 *Doneganiegos nide.*
 
     donegan-ie-go-s   ni-de
-    save-PST-1s-PASS  2s-ABL
+    save-PST-1s-PASS  2s-ABL:SG
     'I was saved by you.'
 
 Present participles are formed with the suffix -*am* which is attached to the verb root and they can be declined according the to consonant declination.
@@ -166,7 +172,17 @@ The verb *om*- which means 'to be (locative)' derives from *aum-* although it do
     be.STA-PST-3sn  monkey-PRED:PL
     'There were (some) monkeys'
 
-## Noun
+### Negation
+
+A verb is negated by placing the negative adverb *an* after the verb.
+
+*Dluntuogo an fladriba.*
+
+  dlunt-uo-go an  fladri-ba
+  come-FUT-1s NEG forest-ALL:SG
+  'I will not come to the forest.'
+
+## Nouns
 
 Nouns end either in a vowel or a consonant and follow their respective class declension. Archaic forms are given in square brackets. The predicative plural ending has two forms, -*nes* and -*nesse* which tend to be respectively the standard in the spoken and written language.
 
