@@ -184,7 +184,7 @@ A verb is negated by placing the negative adverb *an* after the verb.
 
 ## Nouns
 
-Nouns end either in a vowel or a consonant and follow their respective class declension. Archaic forms are given in square brackets. The predicative plural ending has two forms, -*nes* and -*nesse* which tend to be respectively the standard in the spoken and written language.
+Nouns end either in a vowel or a consonant and follow their respective class declension. Archaic forms of suffixes are given in square brackets. The predicative plural ending has two forms, -*nes* and -*nesse* which tend to be respectively the standard in the spoken and written language.
 
 The predicative is used with the verb *aum-* 'to be', which has an existential meaning (while *ash*- is more generally stative).
 
