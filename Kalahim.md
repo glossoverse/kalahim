@@ -97,18 +97,22 @@ The general word order is SVO. Complements follow the noun they refer to, but ad
 
 ## Verbs
 
-| Active | past   | present | future    | hypothetical  |
-|--------|-----------|----------|-----------|------------|
-| 1s     | reik-ie-go  | reik-a-go  | reik-uo-go  | reik-ily-go  |
-| 2s     | reik-ie-ni  | reik-a-ni  | reik-uo-ni  | reik-ily-ni  |
-| 3sm    | reik-ie-lo  | reik-a-lo  | reik-uo-lo  | reik-ily-lo  |
-| 3sf    | reik-ie-re  | reik-a-re  | reik-uo-re  | reik-ily-re  |
-| 3sn    | reik-ie-lah | reik-a-lah | reik-uo-lah | reik-ily-lah |
-| 1pl    | reik-ie-min | reik-a-min | reik-uo-min | reik-ily-min |
-| 2pl    | reik-ie-ty  | reik-a-ty  | reik-uo-ty  | reik-ily-ty  |
-| 3plm   | reik-ie-su  | reik-a-su  | reik-uo-su  | reik-ily-su  |
-| 3plf   | reik-ie-shi | reik-a-shi | reik-uo-shi | reik-ily-shi |
-| 3pln   | reik-ie-sah | reik-a-sah | reik-uo-sah | reik-ily-sah |
+*Revision*: Verbs end in vowel (are there C-final verbs? what about nouns?). In the Present, the vowel coalesces with the Present Tense suffix *-u*: a-u > o, e-u > ie, i-u > y, o-u > o, u-u > u. Past and Future are analytic?
+
+*reika*
+
+| Active | present    | past        | future      | hypothetical |
+|--------|------------|-------------|-------------|--------------|
+| 1s     | reik-o-go  | reik-ie-go  | reik-uo-go  | reik-ily-go  |
+| 2s     | reik-o-ni  | reik-ie-ni  | reik-uo-ni  | reik-ily-ni  |
+| 3sm    | reik-o-lo  | reik-ie-lo  | reik-uo-lo  | reik-ily-lo  |
+| 3sf    | reik-o-re  | reik-ie-re  | reik-uo-re  | reik-ily-re  |
+| 3sn    | reik-o-lah | reik-ie-lah | reik-uo-lah | reik-ily-lah |
+| 1pl    | reik-o-min | reik-ie-min | reik-uo-min | reik-ily-min |
+| 2pl    | reik-o-ty  | reik-ie-ty  | reik-uo-ty  | reik-ily-ty  |
+| 3plm   | reik-o-su  | reik-ie-su  | reik-uo-su  | reik-ily-su  |
+| 3plf   | reik-o-shi | reik-ie-shi | reik-uo-shi | reik-ily-shi |
+| 3pln   | reik-o-sah | reik-ie-sah | reik-uo-sah | reik-ily-sah |
 
 Verbs ending in -*u* (/w/) and -*i* (/j/) have -*e* and -*o* for past and future suffixes. Verbs ending in -*i* have -*yly* for hypothetical.
 
