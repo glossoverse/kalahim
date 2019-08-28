@@ -31,7 +31,7 @@ Kalahim has a five-vowel system, with high, mid, and low heights, front, central
 | mid  | e     |         | o    |
 | low  |       | a       |      |
 
-There are also the following diphthongs: /ei/, /eu/, /oi/, /ou/, /ai/, /au/.
+There are also the following diphthongs: /ei/, /eu/.
 
 ## Phonotactics
 
@@ -46,7 +46,7 @@ Allowed onset clusters:
 * br, bl, bw, bj
 * dr, dl, dw, dj
 * gr, gl, gw, gj
-* sp, st, sk, sl, sw, sj
+* sp, st, sk, sw, sj
 * ʃp, ʃt, ʃk, ʃl, ʃw, ʃj
 * fl, fr, fw, fj
 * hw, hj
@@ -82,6 +82,7 @@ Vowels:
 * [i] is written as ⟨i⟩ and ⟨y⟩ for historical reasons.
 * [j] is written as ⟨y⟩ when is the only syllable onsets, ⟨i⟩ otherwise
   * *duyol* but *catie*
+* ⟨ai, æ⟩ /e/, ⟨au, å⟩, /o/, ⟨oe, öe⟩ /we/.
 
 # Morphosyntax
 
@@ -97,22 +98,22 @@ The general word order is SVO. Complements follow the noun they refer to, but ad
 
 ## Verbs
 
-*Revision*: Verbs end in vowel (are there C-final verbs? what about nouns?). In the Present, the vowel coalesces with the Present Tense suffix *-u*: a-u > o, e-u > ie, i-u > y, o-u > o, u-u > u. Past and Future are analytic?
+*Revision*: Verbs end in vowel (are there C-final verbs? what about nouns?). In the Present, the vowel coalesces with the Present Tense suffix *-u*: a-u > o, e-u > ie, i-u > y, o-u > o, u-u > u. Past and Future are analytic? Past uses *lusho* 'to go' as auxiliary (new 'to go' is different). Future is just the verb stem plus the Subj suffixes.
 
 *reika*
 
-| Active | present    | past        | future      | hypothetical |
-|--------|------------|-------------|-------------|--------------|
-| 1s     | reik-o-go  | reik-ie-go  | reik-uo-go  | reik-ily-go  |
-| 2s     | reik-o-ni  | reik-ie-ni  | reik-uo-ni  | reik-ily-ni  |
-| 3sm    | reik-o-lo  | reik-ie-lo  | reik-uo-lo  | reik-ily-lo  |
-| 3sf    | reik-o-re  | reik-ie-re  | reik-uo-re  | reik-ily-re  |
-| 3sn    | reik-o-lah | reik-ie-lah | reik-uo-lah | reik-ily-lah |
-| 1pl    | reik-o-min | reik-ie-min | reik-uo-min | reik-ily-min |
-| 2pl    | reik-o-ty  | reik-ie-ty  | reik-uo-ty  | reik-ily-ty  |
-| 3plm   | reik-o-su  | reik-ie-su  | reik-uo-su  | reik-ily-su  |
-| 3plf   | reik-o-shi | reik-ie-shi | reik-uo-shi | reik-ily-shi |
-| 3pln   | reik-o-sah | reik-ie-sah | reik-uo-sah | reik-ily-sah |
+| Active | present    | past              | future    | hypothetical |
+|--------|------------|-------------------|-----------|--------------|
+| 1s     | reik-o-go  | lurgo  reika-s | reika-go  | reik-ily-go  |
+| 2s     | reik-o-ni  | lurni  reika-s | reika-ni  | reik-ily-ni  |
+| 3sm    | reik-o-lo  | lullo  reika-s | reika-lo  | reik-ily-lo  |
+| 3sf    | reik-o-re  | luore  reika-s | reika-re  | reik-ily-re  |
+| 3sn    | reik-o-lah | luolah reika-s | reika-lah | reik-ily-lah |
+| 1pl    | reik-o-min | lurmin reika-s | reika-min | reik-ily-min |
+| 2pl    | reik-o-ty  | lusty  reika-s | reika-ty  | reik-ily-ty  |
+| 3plm   | reik-o-su  | luosu  reika-s | reika-su  | reik-ily-su  |
+| 3plf   | reik-o-shi | luoshi reika-s | reika-shi | reik-ily-shi |
+| 3pln   | reik-o-sah | luosah reika-s | reika-sah | reik-ily-sah |
 
 Verbs ending in -*u* (/w/) and -*i* (/j/) have -*e* and -*o* for past and future suffixes. Verbs ending in -*i* have -*yly* for hypothetical.
 
