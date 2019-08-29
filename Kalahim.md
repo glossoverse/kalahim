@@ -19,7 +19,7 @@ Kalahim has stops, fricatives, nasals, approximants, and a trill. Stops contrast
 | approximant | w      | l      | j       |       |         |
 | trill       |        | r      |         |       |         |
 
-1. The approximant /w/ is always preceded by a consonant. For example: *amua* /amwa/, *fuanen* /fwanen/. Cf. \*\*/wana/. Historical note: Single onset /w/ was lost everywhere, and the eventual resulting vowel combination became a diphthong or simplified to a simple vowel. Examples: *reik-* 'to turn' /reik/ < \**rewik-*, *yal*- 'to sing' /jal/ < \**yawal-*.
+1. The approximant /w/ is always preceded by a consonant. For example: *amua* /amwa/, *fuanen* /fwanen/. Cf. \*\*/wana/. Historical note: Single onset /w/ was lost everywhere, and the eventual resulting vowel combination became a diphthong or simplified to a simple vowel. Examples: *reik-* 'to turn' /reik/ < *\*rewik-*, *iel*- 'to sing' /jel/ < /jail/ < *\*yawal-*.
 
 ## Vowels
 
@@ -68,7 +68,7 @@ Consonants:
 | stop        | p b    | t d    | c j     | k g   |         |
 | fricative   | f      | s      | sh      |       | h       |
 | nasal       | m      | n      |         |       |         |
-| approximant | u      | l      | y/i     |       |         |
+| approximant | u      | l      | i       |       |         |
 | trill       |        | r      |         |       |         |
 
 Vowels:
@@ -80,8 +80,6 @@ Vowels:
 | low  |       | a       |      |
 
 * [i] is written as ⟨i⟩ and ⟨y⟩ for historical reasons.
-* [j] is written as ⟨y⟩ when is the only syllable onsets, ⟨i⟩ otherwise
-  * *duyol* but *catie*
 * ⟨ai, æ⟩ /e/, ⟨au, å⟩, /o/, ⟨oe, öe⟩ /we/.
 
 # Morphosyntax

@@ -26,6 +26,7 @@ There are no /ji, wu/.
 * /k, g/ > /tʃ, dʒ/, except when \_{y, u}.
 * /tʷ, dʷ/ > /t, d/ / \_{i, e}, > /k/ /\_u, > /p, b/ /\_{a, o}.
 * /kʷ gʷ/ > /k, g/.
+* VV > Vː.
 * Geminate consonants become singleton and lengthen the preceding vowel.
 * /iː, uː/ > /eː, oː/.
 * /aː, eː, oː/ > /ai, ei, oi/.
