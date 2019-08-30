@@ -96,11 +96,11 @@ Vowels:
 
 The general word order is SVO. Complements follow the noun they refer to, but adjectives precede it.
 
-*Blin manai acaroni.*
-
-  blin    mainai  acaro-ni
-  strong  warrior east-GEN:SG
-  'The strong warrior of the East.'
+\ex \begingl \glpreamble Blin manai acaroni.//
+\gla blin mainai acaro-ni//
+\glb strong warrior east-GEN:SG//
+\glft `The strong warrior of the East.'//
+\endgl \xe
 
 ## Verbs
 
@@ -184,27 +184,27 @@ There are two copulas in Kalahim, *aum-* and *ash-*. The first is used with the 
 
 The verb *om*- which means 'to be (locative)' derives from *aum-* although it does not have allomorphy. It is also used at the neuter to mean 'There is/are' (expletive), in which case it is used with the predicative case. *om*- follows the standard verbal conjugation.
 
-*Omago Limlin'ija.*
+\ex \begingl \glpreamble Omago Limlin'ija.//
+\gla om-a-go         Limlin'-ija//
+\glb be.PRED-PRS-1s  Limlin-LOC:SG//
+\glft `I am in Limlin.'//
+\endgl \xe
 
-    om-a-go         Limlin'-ija
-    be.PRED-PRS-1s  Limlin-LOC:SG
-    'I am in Limlin.'
-
-*Omielah jekines.*
-
-    om-ie-lah       jeki-nes
-    be.STA-PST-3sn  monkey-PRED:PL
-    'There were (some) monkeys'
+\ex \begingl \glpreamble Omielah jekines.//
+\gla om-ie-lah       jeki-nes//
+\glb be.STA-PST-3sn  monkey-PRED:PL//
+\glft `There were (some) monkeys.'//
+\endgl \xe
 
 ### Negation
 
 A verb is negated by placing the negative adverb *an* after the verb.
 
-*Dluntuogo an fladriba.*
-
-  dlunt-uo-go an  fladri-ba
-  come-FUT-1s NEG forest-ALL:SG
-  'I will not come to the forest.'
+\ex \begingl \glpreamble Dluntuogo an fladriba.//
+\gla dlunt-uo-go an  fladri-ba//
+\glb come-FUT-1s NEG forest-ALL:SG//
+\glft `I will not come to the forest.'//
+\endgl \xe
 
 ## Nouns
 
@@ -294,15 +294,8 @@ Cf. with the object complement clause *Nem korashielo mol noirgahielo nai lonu v
 
 # Glossed examples
 
-*Ashani lof namshal gonji shimalah ki mallabalah vinedolu, e Firniluk goniguk!*
-
-    ash-a-ni   lof   namsha-l     gonji   shim-a-lah
-    be-PRS-2s  like  star-ACC:SG  so.much shine-PRS-3sn
-
-    ki    mallab-a-lah    vined-olu
-    CONJ  obscure-PRS-3sn other-ACC:PL
-
-    e   Firnil-uk      gonig-uk
-    oh  Firnil-VOC:SG  my-VOC:SG
-
-    'You are like a star that is so bright to obscure the others, oh my Firnil!'
+\ex \begingl \glpreamble Ashani lof namshal gonji shimalah ki mallabalah vinedolu, e Firniluk goniguk!//
+\gla ash-a-ni   lof   namsha-l     gonji   shim-a-lah ki    mallab-a-lah    vined-olu e   Firnil-uk      gonig-uk//
+\glb be-PRS-2s  like  star-ACC:SG  so.much shine-PRS-3sn CONJ  obscure-PRS-3sn other-ACC:PL oh  Firnil-VOC:SG  my-VOC:SG//
+\glft `You are like a star that is so bright to obscure the others, oh my Firnil!'//
+\endgl \xe
