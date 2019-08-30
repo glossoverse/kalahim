@@ -112,8 +112,8 @@ Passive: it was -s, now it has Non-Past form (Present and Future) which is origi
 
 *reika* 'to turn'
 
-| Active | present    | past           | future    | hypothetical      |
-|--------|------------|----------------|-----------|-------------------|
+| Active | present   | past           | future    | hypothetical      |
+|--------|-----------|----------------|-----------|-------------------|
 | 1s     | reiko-go  | lurgo  reika-s | reika-go  | lurby-go  reika-s |
 | 2s     | reiko-ni  | lurni  reika-s | reika-ni  | lurby-ni  reika-s |
 | 3sm    | reiko-lo  | luelo  reika-s | reika-lo  | lurby-lo  reika-s |
@@ -154,33 +154,35 @@ Present participles are formed with the suffix -*m* which is attached to the ver
 
 ### Copula
 
-There are two copulas in Kalahim, *aum-* and *ash-*. The first is used with the predicative case and refers to a permanent or substantial feature of the subject. For example, *om-a-go ned-es* 'I am (a) man'. *ash-* is used with temporary states and feelings, like in *ash-a-lah cul* 'it is sweet'.
+There are two copulas in Kalahim, *om-* (< *aum-*) and *ash-*. The first is used with the predicative case and refers to a permanent or substantial feature of the subject. For example, *om-a-go ned-es* 'I am (a) man'. *ash-* is used with temporary states and feelings, like in *ash-a-lah cul* 'it is sweet'.
 
-| aum-     | past     | present  | future   | hypothetical |
-|---------|----------|----------|----------|-----------|
-| 1s      | aum-i-go   | om-a-go    | aum-u-go   | aum-yl-go   |
-| 2s      | aum-i-ni   | om-a-ni    | aum-u-ni   | aum-yl-ni   |
-| 3sm     | aum-ie-lo  | om-a-lo    | aum-uo-lo  | aum-yl-lo   |
-| 3sf     | aum-ie-re  | om-a-re    | aum-uo-re  | aum-yl-re   |
-| 3sn     | aum-ie-lah | om-a-lah   | aum-uo-lah | aum-yl-lah  |
-| 1pl     | aum-e-min  | om-a-min   | aum-o-min  | aum-yl-min  |
-| 2pl     | aum-e-ty   | om-a-ty    | aum-o-ty   | aum-yl-ty   |
-| 3plm    | aum-ei-su  | om-a-su    | aum-ou-su  | aum-yl-su   |
-| 3plf    | aum-ei-shi | om-a-shi   | aum-ou-shi | aum-yl-shi  |
-| 3pln    | aum-ei-sah | om-a-sah   | aum-ou-sah | aum-yl-sah  |
+| aum- | present | past        | future    | hypothetical |
+|------|---------|-------------|-----------|--------------|
+| 1s   | omy     | on-go/ue-go | om-ei-go  | om-by-go     |
+| 2s   | omy-ni  | ue-ni       | om-ei-ni  | om-by-ni     |
+| 3sm  | omy     | ue-lo       | om-ei-lo  | om-by-lo     |
+| 3sf  | omy     | ue-re       | om-ei-re  | om-by-re     |
+| 3sn  | omy     | ue-lah      | om-ei-lah | om-by-lah    |
+| 1pl  | omy-min | ue-min      | om-ei-min | om-by-min    |
+| 2pl  | omy-ty  | on-ty/ue-ty | om-ei-ty  | om-by-ty     |
+| 3plm | omy-su  | ue-su       | om-ei-su  | om-by-su     |
+| 3plf | omy-shi | ue-shi      | om-ei-shi | om-by-shi    |
+| 3pln | omy-sah | ue-sah      | om-ei-sah | om-by-sah    |
 
-| ash-     | past     | present  | future   | hypothetical |
-|---------|----------|----------|----------|-----------|
-| 1s      | ash-e-go  | ash-a-go    | ash-o-go  | ash-ily-go   |
-| 2s      | ash-e-ni  | ash-a-ni    | ash-o-ni  | ash-ily-ni   |
-| 3sm     | ash-e-lo  | ash-a-lo    | ash-o-lo  | ash-ily-lo   |
-| 3sf     | ash-e-re  | ash-a-re    | ash-o-re  | ash-ily-re   |
-| 3sn     | ash-e-lah | ash-a-lah   | ash-o-lah | ash-ily-lah  |
-| 1pl     | ash-e-min | ash-a-min   | ash-o-min | ash-ily-min  |
-| 2pl     | ash-e-ty  | ash-a-ty    | ash-o-ty  | ash-ily-ty   |
-| 3plm    | ash-e-su  | ash-a-su    | ash-o-su  | ash-ily-su   |
-| 3plf    | ash-e-shi | ash-a-shi   | ash-o-shi | ash-ily-shi  |
-| 3pln    | ash-e-sah | ash-a-sah   | ash-o-sah | ash-ily-sah  |
+Present should have stem in -ie but it is reduced to -e because of preceding -sh (only when unstressed).
+
+| ash- | present   | past    | future    | hypothetical |
+|------|-----------|---------|-----------|--------------|
+| 1s   | ashe      | e-go    | ash-o-go  | e-by-go      |
+| 2s   | ashie-ni  | e-ni    | ash-o-ni  | e-by-ni      |
+| 3sm  | ashe      | ash-lo  | ash-o-lo  | e-by-lo      |
+| 3sf  | ashe      | e-re    | ash-o-re  | e-by-re      |
+| 3sn  | ashe      | ash-lah | ash-o-lah | e-by-lah     |
+| 1pl  | ashie-min | e-min   | ash-o-min | e-by-min     |
+| 2pl  | ashie-ty  | ash-ty  | ash-o-ty  | e-by-ty      |
+| 3plm | ashie-su  | e-shu   | ash-o-su  | e-by-su      |
+| 3plf | ashie-shi | e-shi   | ash-o-shi | e-by-shi     |
+| 3pln | ashie-sah | e-shah  | ash-o-sah | e-by-sah     |
 
 The verb *om*- which means 'to be (locative)' derives from *aum-* although it does not have allomorphy. It is also used at the neuter to mean 'There is/are' (expletive), in which case it is used with the predicative case. *om*- follows the standard verbal conjugation.
 

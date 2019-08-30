@@ -27,7 +27,8 @@ There are no /ji, wu/.
 * /pʷ bʷ/ > /p, b/.
 * /tʷ, dʷ/ > /t, d/ / \_{y, e}, > /k/ /\_u, > /p, b/ /\_{a, o}.
 * /kʷ gʷ/ > /k, g/.
-* VV > Vː.
+* V1V2 > V1ː.
+* Various cluster simplification to geminate C2.
 * Geminate consonants become singleton and lengthen the preceding vowel.
 * /iː, uː/ > /eː, oː/.
 * /aː, eː, oː/ > /ai, ei, oi/.
