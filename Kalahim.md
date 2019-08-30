@@ -1,8 +1,16 @@
 ---
 title: Kalahim grammar sketch
-mainfont: Brill
-numbersections: true
-fontsize: 11pt
+author: Stefano Coretta
+output:
+  pdf_document:
+    keep_tex: yes
+    latex_engine: xelatex
+    number_sections: yes
+    includes:
+      in_header: preamble.tex
+mainfont: FreeSerif
+papersize: a4
+indent: true
 ---
 
 # Phonology
