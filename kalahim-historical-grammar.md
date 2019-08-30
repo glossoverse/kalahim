@@ -10,7 +10,7 @@ fontsize: 11pt
 |-------------|--------|--------|---------|-------|---------|
 | stop        | p b    | t d    |         | k g   |         |
 |             | pʲ bʲ  | tʲ dʲ  |         | kʲ gʲ |         |
-|             |        | tʷ dʷ  |         | kʷ gʷ |         |
+|             | pʷ bʷ  | tʷ dʷ  |         | kʷ gʷ |         |
 | fricative   |        | s      |         |       | h       |
 | nasal       | m      | n      |         |       |         |
 | approximant | w      | l      | j       |       |         |
@@ -24,7 +24,8 @@ There are no /ji, wu/.
 * /i/ > /y/ / ʷ\_.
 * /ju/ > /y/.
 * /k, g/ > /tʃ, dʒ/, except when \_{y, u}.
-* /tʷ, dʷ/ > /t, d/ / \_{i, e}, > /k/ /\_u, > /p, b/ /\_{a, o}.
+* /pʷ bʷ/ > /p, b/.
+* /tʷ, dʷ/ > /t, d/ / \_{y, e}, > /k/ /\_u, > /p, b/ /\_{a, o}.
 * /kʷ gʷ/ > /k, g/.
 * VV > Vː.
 * Geminate consonants become singleton and lengthen the preceding vowel.
@@ -35,4 +36,4 @@ There are no /ji, wu/.
 * /y/ > /i/.
 * /ai, au/ > /e, o/.
 * /oi, ou/ > /wi, o/.
-* /wi/ > /we/ when unstressed.
+* /wi/ > /we/ when unstressed or weak (like in auxiliaries).
