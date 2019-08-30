@@ -106,38 +106,51 @@ The general word order is SVO. Complements follow the noun they refer to, but ad
 
 *Revision*: Verbs end in vowel (are there C-final verbs? what about nouns?). In the Present, the vowel coalesces with the Present Tense suffix *-u*: a-u > o, e-u > ie, i-u > y, o-u > o, u-u > u. Past and Future are analytic? Past uses *lusho* 'to go' as auxiliary (new 'to go' is different). Future is just the verb stem plus the Subj suffixes.
 
-*reika*
+Infinitive: -sh (< -tʲ). Hypothetical from -bʷi, a form of future?
 
-| Active | present    | past              | future    | hypothetical |
-|--------|------------|-------------------|-----------|--------------|
-| 1s     | reik-o-go  | lurgo  reika-s | reika-go  | reik-ily-go  |
-| 2s     | reik-o-ni  | lurni  reika-s | reika-ni  | reik-ily-ni  |
-| 3sm    | reik-o-lo  | lullo  reika-s | reika-lo  | reik-ily-lo  |
-| 3sf    | reik-o-re  | luore  reika-s | reika-re  | reik-ily-re  |
-| 3sn    | reik-o-lah | luolah reika-s | reika-lah | reik-ily-lah |
-| 1pl    | reik-o-min | lurmin reika-s | reika-min | reik-ily-min |
-| 2pl    | reik-o-ty  | lusty  reika-s | reika-ty  | reik-ily-ty  |
-| 3plm   | reik-o-su  | luosu  reika-s | reika-su  | reik-ily-su  |
-| 3plf   | reik-o-shi | luoshi reika-s | reika-shi | reik-ily-shi |
-| 3pln   | reik-o-sah | luosah reika-s | reika-sah | reik-ily-sah |
+Passive: it was -s, now it has Non-Past form (Present and Future) which is original Gnomic (that takes on future meaning in Active). Passive Past is with auxiliary *dlanti* 'to come'.
 
-Verbs ending in -*u* (/w/) and -*i* (/j/) have -*e* and -*o* for past and future suffixes. Verbs ending in -*i* have -*yly* for hypothetical.
+*reika* 'to turn'
 
-Passive is obtained by adding the suffix *-s* last.
+| Active | present    | past           | future    | hypothetical      |
+|--------|------------|----------------|-----------|-------------------|
+| 1s     | reiko-go  | lurgo  reika-s | reika-go  | lurby-go  reika-s |
+| 2s     | reiko-ni  | lurni  reika-s | reika-ni  | lurby-ni  reika-s |
+| 3sm    | reiko-lo  | luelo  reika-s | reika-lo  | lurby-lo  reika-s |
+| 3sf    | reiko-re  | luere  reika-s | reika-re  | lurby-re  reika-s |
+| 3sn    | reiko-lah | luelah reika-s | reika-lah | lurby-lah reika-s |
+| 1pl    | reiko-min | lurmin reika-s | reika-min | lurby-min reika-s |
+| 2pl    | reiko-ty  | lusty  reika-s | reika-ty  | lurby-ty  reika-s |
+| 3plm   | reiko-su  | luesu  reika-s | reika-su  | lurby-su  reika-s |
+| 3plf   | reiko-shi | lueshi reika-s | reika-shi | lurby-shi reika-s |
+| 3pln   | reiko-sah | luesah reika-s | reika-sah | lurby-sah reika-s |
 
-*Doneganiegos nide.*
+| Passive | non-past   | past          |
+|---------|------------|---------------|
+| 1s      | reika-gos  | lango reika-s |
+| 2s      | reika-nis  | leni  reika-s |
+| 3sm     | reika-los  | lelo  reika-s |
+| 3sf     | reika-res  | lere  reika-s |
+| 3sn     | reika-les  | lelah reika-s |
+| 1pl     | reika-meis | lemin reika-s |
+| 2pl     | reika-tys  | lanty reika-s |
+| 3plm    | reika-sus  | lesu  reika-s |
+| 3plf    | reika-shis | leshi reika-s |
+| 3pln    | reika-ses  | lesah reika-s |
 
-    donegan-ie-go-s   ni-de
-    save-PST-1s-PASS  2s-ABL:SG
-    'I was saved by you.'
+\ex \begingl \glpreamble Lango (done)ganis nide.//
+\gla lan-go       (done)gani-s     ni-de//
+\glb PST:PASS-1sg save-PASS.PRT  2s-ABL:SG//
+\glft `I was saved by you.'//
+\endgl \xe
 
-Present participles are formed with the suffix -*am* which is attached to the verb root and they can be declined according the to consonant declination.
+Present participles are formed with the suffix -*m* which is attached to the verb root and they can be declined according the to consonant declination.
 
-*Catieni shonamen*
-
-    catie-ni      shon-am-en
-    person-GEN:SG think-PTCP-GEN:SG
-    'Of the thinking person.'
+\ex \begingl \glpreamble Catieni shonamen//
+\gla catie-ni      shona-m-en//
+\glb person-GEN:SG think-PTCP-GEN:SG//
+\glft `Of the thinking person.'//
+\endgl \xe
 
 ### Copula
 
