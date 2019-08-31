@@ -154,7 +154,7 @@ Present participles are formed with the suffix -*m* which is attached to the ver
 
 ### Copula
 
-There are two copulas in Kalahim, *om-* (< *aum-*) and *ash-*. The first is used with the predicative case and refers to a permanent or substantial feature of the subject. For example, *om-a-go ned-es* 'I am (a) man'. *ash-* is used with temporary states and feelings, like in *ash-a-lah cul* 'it is sweet'.
+There are two copulas in Kalahim, *om-* (< *aumi-*) and *ash-* (< *ashi-*). The first is used with the Predicative case and refers to a permanent or substantial feature of the subject. For example, *omy ned-es* 'I am (a) man'. *ash-* is used with temporary states and feelings, like in *ashe cul* 'it is sweet'.
 
 | aum- | present | past        | future    | hypothetical |
 |------|---------|-------------|-----------|--------------|
@@ -184,17 +184,19 @@ Present should have stem in -ie but it is reduced to -e because of preceding -sh
 | 3plf | ashie-shi | e-shi   | ash-o-shi | e-by-shi     |
 | 3pln | ashie-sah | e-shah  | ash-o-sah | e-by-sah     |
 
-The verb *om*- which means 'to be (locative)' derives from *aum-* although it does not have allomorphy. It is also used at the neuter to mean 'There is/are' (expletive), in which case it is used with the predicative case. *om*- follows the standard verbal conjugation.
+### Locative *om-*
 
-\ex \begingl \glpreamble Omago Limlin'ija.//
-\gla om-a-go         Limlin'-ija//
-\glb be.PRED-PRS-1s  Limlin-LOC:SG//
+The verb *om-*, which means 'to be in some place' derives from *aum-*, although its paradigm has regularised and follows the default verbal conjugation. In the 3rd Neuter Singular and Plural it is also used together with the Predicative case as an expletive to mean 'There is/are'.
+
+\ex \begingl \glpreamble Omogo Limlin'ija.//
+\gla omo-go         Limlin'-ija//
+\glb be.LOC.PRS-1s  Limlin-LOC:SG//
 \glft `I am in Limlin.'//
 \endgl \xe
 
-\ex \begingl \glpreamble Omielah jekines.//
-\gla om-ie-lah       jeki-nes//
-\glb be.STA-PST-3sn  monkey-PRED:PL//
+\ex \begingl \glpreamble Luesah omis jekines.//
+\gla luesah omi-s jeki-nes//
+\glb PST.3pl.N be.EXPL-PST.PRTC monkey-PRED:PL//
 \glft `There were (some) monkeys.'//
 \endgl \xe
 
@@ -202,9 +204,9 @@ The verb *om*- which means 'to be (locative)' derives from *aum-* although it do
 
 A verb is negated by placing the negative adverb *an* after the verb.
 
-\ex \begingl \glpreamble Dluntuogo an fladriba.//
-\gla dlunt-uo-go an  fladri-ba//
-\glb come-FUT-1s NEG forest-ALL:SG//
+\ex \begingl \glpreamble Dlantigo an fladriba.//
+\gla dlanti-go an fladri-ba//
+\glb come.FUT-1s NEG forest-ALL:SG//
 \glft `I will not come to the forest.'//
 \endgl \xe
 
