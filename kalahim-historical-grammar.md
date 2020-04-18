@@ -33,8 +33,7 @@ There are no /ji, wu/.
 * /iː, uː/ > /eː, oː/.
 * /aː, eː, oː/ > /ai, ei, oi/.
 * /e, o/ > /je, wo/ when stressed.
+* /oi, ou/ > /we, o/.
 * WRITING
-* /y/ > /i/.
-* /ai, au/ > /e, o/.
-* /oi, ou/ > /wi, o/.
-* /wi/ > /we/ when unstressed or weak (like in auxiliaries).
+* /y/ > /i/ ⟨y⟩.
+* /ai, au/ > /e, o/ ⟨ai, au⟩.

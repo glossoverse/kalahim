@@ -69,6 +69,8 @@ Stress is intensive and it falls always on the penultimate syllable of the word 
 
 # Writing system
 
+The transliteration is as follows.
+
 Consonants:
 
 |             | labial | dental | palatal | velar | glottal |
@@ -84,11 +86,11 @@ Vowels:
 |      | front | central | back |
 |------|-------|---------|------|
 | high | i/y   |         | u    |
-| mid  | e     |         | o    |
+| mid  | e/ai  |         | o/au |
 | low  |       | a       |      |
 
-* [i] is written as ⟨i⟩ and ⟨y⟩ for historical reasons.
-* ⟨ai, æ⟩ /e/, ⟨au, å⟩, /o/, ⟨oe, öe⟩ /we/.
+* [i, e, o] are written as ⟨i, e, o⟩ and ⟨y, ai, au⟩ for historical reasons.
+  * Alternative transliterations for ⟨ai, au⟩ are ⟨æ, å⟩.
 
 # Morphosyntax
 
