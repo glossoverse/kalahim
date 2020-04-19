@@ -90,7 +90,7 @@ Vowels:
 | low  |       | a       |      |
 
 * [i, e, o] are written as ⟨i, e, o⟩ and ⟨y, ai, au⟩ for historical reasons.
-  * Alternative transliterations for ⟨ai, au⟩ are ⟨æ, å⟩.
+  * Alternative transliterations for ⟨ai, au⟩ are ⟨ê, ô⟩.
 
 # Morphosyntax
 
