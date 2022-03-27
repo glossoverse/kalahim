@@ -1,6 +1,10 @@
 ---
 title: Historical grammar of Kalahim
 author: Stefano Coretta
+output:
+  pdf_document:
+    latex_engine: xelatex
+    number_sections: yes
 mainfont: Brill
 numbersections: true
 fontsize: 11pt
