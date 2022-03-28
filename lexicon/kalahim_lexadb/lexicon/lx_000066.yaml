@@ -1,8 +1,8 @@
 id: lx_000066
 entry: liein
 phon: ljein
-morph_category: 
-morph_type: 
+morph_category: lexical
+morph_type: root
 part_of_speech: noun
 inflectional_features:
   class:
@@ -18,5 +18,5 @@ senses:
     id: se_01
     gloss: guts
     definition: "guts"
-date_created: 2022-03-28 16:00:25
-date_modified: 2022-03-28 16:00:25
+date_created: 2022-03-28 17:18:00
+date_modified: 2022-03-28 17:18:00

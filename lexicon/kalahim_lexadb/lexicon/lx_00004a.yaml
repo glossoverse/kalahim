@@ -1,8 +1,8 @@
 id: lx_00004a
 entry: hil-
 phon: hil
-morph_category: 
-morph_type: 
+morph_category: lexical
+morph_type: bound root
 part_of_speech: verb
 inflectional_features:
   class:
@@ -18,5 +18,5 @@ senses:
     id: se_01
     gloss: have
     definition: "have"
-date_created: 2022-03-28 16:00:25
-date_modified: 2022-03-28 16:00:25
+date_created: 2022-03-28 17:18:00
+date_modified: 2022-03-28 17:18:00
