@@ -1,0 +1,22 @@
+id: lx_000024
+entry: dolnen
+phon: dolnen
+morph_category: 
+morph_type: 
+part_of_speech: noun
+inflectional_features:
+  class:
+etymology: NA
+notes: NA
+allomorphs:
+  al_01:
+    id: al_01
+    morph: dolnen
+    phon: dolnen
+senses:
+  se_01:
+    id: se_01
+    gloss: foot
+    definition: ""
+date_created: 2022-03-28 09:56:42
+date_modified: 2022-03-28 09:56:42

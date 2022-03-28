@@ -1,0 +1,22 @@
+id: lx_000005
+entry: ank
+phon: aŋk
+morph_category: 
+morph_type: 
+part_of_speech: verb
+inflectional_features:
+  class:
+etymology: NA
+notes: NA
+allomorphs:
+  al_01:
+    id: al_01
+    morph: ank
+    phon: aŋk
+senses:
+  se_01:
+    id: se_01
+    gloss: stand
+    definition: ""
+date_created: 2022-03-28 09:56:42
+date_modified: 2022-03-28 09:56:42

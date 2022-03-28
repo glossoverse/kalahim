@@ -1,0 +1,22 @@
+id: lx_0000be
+entry: ial-
+phon: jal
+morph_category: 
+morph_type: 
+part_of_speech: verb
+inflectional_features:
+  class:
+etymology: yawal
+notes: NA
+allomorphs:
+  al_01:
+    id: al_01
+    morph: ial-
+    phon: jal
+senses:
+  se_01:
+    id: se_01
+    gloss: sing
+    definition: ""
+date_created: 2022-03-28 09:56:42
+date_modified: 2022-03-28 09:56:42

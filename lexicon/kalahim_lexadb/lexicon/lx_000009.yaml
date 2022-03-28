@@ -1,0 +1,22 @@
+id: lx_000009
+entry: aum-
+phon: aum
+morph_category: 
+morph_type: 
+part_of_speech: verb
+inflectional_features:
+  class:
+etymology: NA
+notes: NA
+allomorphs:
+  al_01:
+    id: al_01
+    morph: aum-
+    phon: aum
+senses:
+  se_01:
+    id: se_01
+    gloss: be.PRED
+    definition: ""
+date_created: 2022-03-28 09:56:42
+date_modified: 2022-03-28 09:56:42

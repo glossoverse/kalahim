@@ -1,0 +1,22 @@
+id: lx_00001d
+entry: desrin
+phon: desrin
+morph_category: 
+morph_type: 
+part_of_speech: noun
+inflectional_features:
+  class:
+etymology: NA
+notes: NA
+allomorphs:
+  al_01:
+    id: al_01
+    morph: desrin
+    phon: desrin
+senses:
+  se_01:
+    id: se_01
+    gloss: mountain
+    definition: ""
+date_created: 2022-03-28 09:56:42
+date_modified: 2022-03-28 09:56:42

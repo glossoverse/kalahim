@@ -1,0 +1,22 @@
+id: lx_0000bf
+entry: iun
+phon: jun
+morph_category: 
+morph_type: 
+part_of_speech: adjective
+inflectional_features:
+  class:
+etymology: NA
+notes: NA
+allomorphs:
+  al_01:
+    id: al_01
+    morph: iun
+    phon: jun
+senses:
+  se_01:
+    id: se_01
+    gloss: witty
+    definition: ""
+date_created: 2022-03-28 09:56:42
+date_modified: 2022-03-28 09:56:42
