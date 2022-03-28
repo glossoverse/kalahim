@@ -1,6 +1,6 @@
 id: lx_000026
-entry: donegan-
-phon: donegan
+entry: dost-
+phon: dost
 morph_category: 
 morph_type: 
 part_of_speech: verb
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: donegan-
-    phon: donegan
+    morph: dost-
+    phon: dost
 senses:
   se_01:
     id: se_01
-    gloss: save
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: fall
+    definition: "fall"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

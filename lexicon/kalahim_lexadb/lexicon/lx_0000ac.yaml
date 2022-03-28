@@ -1,6 +1,6 @@
 id: lx_0000ac
-entry: tety
-phon: teti
+entry: tielp
+phon: tjelp
 morph_category: 
 morph_type: 
 part_of_speech: noun
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: tety
-    phon: teti
+    morph: tielp
+    phon: tjelp
 senses:
   se_01:
     id: se_01
-    gloss: earth
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: fruit
+    definition: "fruit"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

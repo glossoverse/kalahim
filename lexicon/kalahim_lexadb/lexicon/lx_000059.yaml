@@ -1,9 +1,9 @@
 id: lx_000059
-entry: jaruabl-
-phon: dʒarwabl
+entry: jeki
+phon: dʒeki
 morph_category: 
 morph_type: 
-part_of_speech: verb
+part_of_speech: noun
 inflectional_features:
   class:
 etymology: NA
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: jaruabl-
-    phon: dʒarwabl
+    morph: jeki
+    phon: dʒeki
 senses:
   se_01:
     id: se_01
-    gloss: dig
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: monkey
+    definition: "monkey"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

@@ -1,9 +1,9 @@
 id: lx_000017
-entry: catie
-phon: tʃatje
+entry: cetar-
+phon: tʃetar
 morph_category: 
 morph_type: 
-part_of_speech: noun
+part_of_speech: verb
 inflectional_features:
   class:
 etymology: NA
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: catie
-    phon: tʃatje
+    morph: cetar-
+    phon: tʃetar
 senses:
   se_01:
     id: se_01
-    gloss: person
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: suck
+    definition: "suck"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

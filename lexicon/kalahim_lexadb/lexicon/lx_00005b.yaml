@@ -1,9 +1,9 @@
 id: lx_00005b
-entry: kabas-
-phon: kabas
+entry: kaigoin
+phon: kaigoin
 morph_category: 
 morph_type: 
-part_of_speech: verb
+part_of_speech: noun
 inflectional_features:
   class:
 etymology: NA
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: kabas-
-    phon: kabas
+    morph: kaigoin
+    phon: kaigoin
 senses:
   se_01:
     id: se_01
-    gloss: know
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: number
+    definition: "number"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

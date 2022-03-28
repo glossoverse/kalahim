@@ -1,9 +1,9 @@
 id: lx_00002a
-entry: e
-phon: e
+entry: edor-
+phon: edor
 morph_category: 
 morph_type: 
-part_of_speech: exclamation
+part_of_speech: verb
 inflectional_features:
   class:
 etymology: NA
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: e
-    phon: e
+    morph: edor-
+    phon: edor
 senses:
   se_01:
     id: se_01
-    gloss: oh
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: sit
+    definition: "sit"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

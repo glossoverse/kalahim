@@ -1,9 +1,9 @@
 id: lx_00004b
-entry: hil-
-phon: hil
+entry: himin
+phon: himin
 morph_category: 
 morph_type: 
-part_of_speech: verb
+part_of_speech: noun
 inflectional_features:
   class:
 etymology: NA
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: hil-
-    phon: hil
+    morph: himin
+    phon: himin
 senses:
   se_01:
     id: se_01
-    gloss: have
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: hour
+    definition: "hour"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

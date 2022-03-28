@@ -1,6 +1,6 @@
 id: lx_00008f
-entry: riash-
-phon: rjaʃ
+entry: rin-
+phon: rin
 morph_category: 
 morph_type: 
 part_of_speech: verb
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: riash-
-    phon: rjaʃ
+    morph: rin-
+    phon: rin
 senses:
   se_01:
     id: se_01
-    gloss: bite
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: give
+    definition: "give"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

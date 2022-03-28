@@ -1,6 +1,6 @@
-id: lx_0000b6
-entry: vebo
-phon: vebo
+id: lx_000001
+entry: acaro
+phon: atʃaro
 morph_category: 
 morph_type: 
 part_of_speech: noun
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: vebo
-    phon: vebo
+    morph: acaro
+    phon: atʃaro
 senses:
   se_01:
     id: se_01
-    gloss: south
-    definition: "south"
+    gloss: east
+    definition: "east"
 date_created: 2022-03-28 15:42:27
 date_modified: 2022-03-28 15:42:27

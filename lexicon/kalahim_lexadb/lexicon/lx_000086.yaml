@@ -1,6 +1,6 @@
 id: lx_000086
-entry: omra
-phon: omra
+entry: oieb
+phon: ojeb
 morph_category: 
 morph_type: 
 part_of_speech: noun
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: omra
-    phon: omra
+    morph: oieb
+    phon: ojeb
 senses:
   se_01:
     id: se_01
-    gloss: leg
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: seed
+    definition: "seed"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

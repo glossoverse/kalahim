@@ -1,6 +1,6 @@
 id: lx_00002e
-entry: feirn-
-phon: feinr
+entry: ferf-
+phon: ferf
 morph_category: 
 morph_type: 
 part_of_speech: verb
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: feirn-
-    phon: feinr
+    morph: ferf-
+    phon: ferf
 senses:
   se_01:
     id: se_01
-    gloss: hunt
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: smell
+    definition: "smell"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

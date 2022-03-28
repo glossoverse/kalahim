@@ -1,9 +1,9 @@
 id: lx_00003d
-entry: gana
-phon: gana
+entry: gehot-
+phon: gehot
 morph_category: 
 morph_type: 
-part_of_speech: noun
+part_of_speech: verb
 inflectional_features:
   class:
 etymology: NA
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: gana
-    phon: gana
+    morph: gehot-
+    phon: gehot
 senses:
   se_01:
     id: se_01
-    gloss: hand
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: think
+    definition: "think"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

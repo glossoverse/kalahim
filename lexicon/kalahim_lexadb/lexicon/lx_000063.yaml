@@ -1,9 +1,9 @@
 id: lx_000063
-entry: kolin
-phon: kolin
+entry: korash-
+phon: koraʃ
 morph_category: 
 morph_type: 
-part_of_speech: noun
+part_of_speech: verb
 inflectional_features:
   class:
 etymology: NA
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: kolin
-    phon: kolin
+    morph: korash-
+    phon: koraʃ
 senses:
   se_01:
     id: se_01
-    gloss: sadness
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: be.happy
+    definition: "be.happy"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

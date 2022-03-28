@@ -1,9 +1,9 @@
 id: lx_000013
-entry: cajak-
-phon: tʃadʒak
+entry: caria
+phon: tʃarja
 morph_category: 
 morph_type: 
-part_of_speech: verb
+part_of_speech: noun
 inflectional_features:
   class:
 etymology: NA
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: cajak-
-    phon: tʃadʒak
+    morph: caria
+    phon: tʃarja
 senses:
   se_01:
     id: se_01
-    gloss: change
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: air
+    definition: "air"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

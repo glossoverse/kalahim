@@ -1,22 +1,22 @@
 id: lx_00008d
-entry: pushait-
-phon: puʃait
+entry: reik-
+phon: reik
 morph_category: 
 morph_type: 
 part_of_speech: verb
 inflectional_features:
   class:
-etymology: NA
+etymology: rewik
 notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: pushait-
-    phon: puʃait
+    morph: reik-
+    phon: reik
 senses:
   se_01:
     id: se_01
-    gloss: scare
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: turn
+    definition: "turn"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

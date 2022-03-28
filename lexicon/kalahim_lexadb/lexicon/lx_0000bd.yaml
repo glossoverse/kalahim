@@ -1,9 +1,9 @@
 id: lx_0000bd
-entry: vonsesh-
-phon: vonseʃ
+entry: vuina
+phon: vwuina
 morph_category: 
 morph_type: 
-part_of_speech: verb
+part_of_speech: noun
 inflectional_features:
   class:
 etymology: NA
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: vonsesh-
-    phon: vonseʃ
+    morph: vuina
+    phon: vwuina
 senses:
   se_01:
     id: se_01
-    gloss: flow
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: flower
+    definition: "flower"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

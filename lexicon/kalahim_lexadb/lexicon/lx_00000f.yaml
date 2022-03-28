@@ -1,6 +1,6 @@
 id: lx_00000f
-entry: boirmen-
-phon: boirmen
+entry: bok-
+phon: bok
 morph_category: 
 morph_type: 
 part_of_speech: verb
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: boirmen-
-    phon: boirmen
+    morph: bok-
+    phon: bok
 senses:
   se_01:
     id: se_01
-    gloss: jump
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: reach
+    definition: "reach"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

@@ -1,6 +1,6 @@
 id: lx_0000b5
-entry: umua
-phon: umwa
+entry: vampio
+phon: vampjo
 morph_category: 
 morph_type: 
 part_of_speech: noun
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: umua
-    phon: umwa
+    morph: vampio
+    phon: vampjo
 senses:
   se_01:
     id: se_01
-    gloss: neck
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: snow
+    definition: "snow"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

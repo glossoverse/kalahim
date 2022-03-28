@@ -1,6 +1,6 @@
 id: lx_00003f
-entry: gohil
-phon: gohil
+entry: gondo
+phon: gondo
 morph_category: 
 morph_type: 
 part_of_speech: noun
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: gohil
-    phon: gohil
+    morph: gondo
+    phon: gondo
 senses:
   se_01:
     id: se_01
-    gloss: root
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: heart
+    definition: "heart"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

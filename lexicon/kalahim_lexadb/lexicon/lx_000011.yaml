@@ -1,6 +1,6 @@
 id: lx_000011
-entry: bone
-phon: bone
+entry: brah
+phon: brah
 morph_category: 
 morph_type: 
 part_of_speech: noun
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: bone
-    phon: bone
+    morph: brah
+    phon: brah
 senses:
   se_01:
     id: se_01
-    gloss: donkey
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: SUI
+    definition: "SUI"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

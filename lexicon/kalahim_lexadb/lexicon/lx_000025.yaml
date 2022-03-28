@@ -1,9 +1,9 @@
 id: lx_000025
-entry: dolnen
-phon: dolnen
+entry: donegan-
+phon: donegan
 morph_category: 
 morph_type: 
-part_of_speech: noun
+part_of_speech: verb
 inflectional_features:
   class:
 etymology: NA
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: dolnen
-    phon: dolnen
+    morph: donegan-
+    phon: donegan
 senses:
   se_01:
     id: se_01
-    gloss: foot
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: save
+    definition: "save"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

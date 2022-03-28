@@ -1,22 +1,22 @@
 id: lx_0000be
-entry: vuina
-phon: vwuina
+entry: ial-
+phon: jal
 morph_category: 
 morph_type: 
-part_of_speech: noun
+part_of_speech: verb
 inflectional_features:
   class:
-etymology: NA
+etymology: yawal
 notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: vuina
-    phon: vwuina
+    morph: ial-
+    phon: jal
 senses:
   se_01:
     id: se_01
-    gloss: flower
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: sing
+    definition: "sing"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

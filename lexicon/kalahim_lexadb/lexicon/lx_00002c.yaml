@@ -1,9 +1,9 @@
 id: lx_00002c
-entry: emsh-
-phon: emʃ
+entry: fargat
+phon: fargat
 morph_category: 
 morph_type: 
-part_of_speech: verb
+part_of_speech: noun
 inflectional_features:
   class:
 etymology: NA
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: emsh-
-    phon: emʃ
+    morph: fargat
+    phon: fargat
 senses:
   se_01:
     id: se_01
-    gloss: eat
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: grass
+    definition: "grass"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

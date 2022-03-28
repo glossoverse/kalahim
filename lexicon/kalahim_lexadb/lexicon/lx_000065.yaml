@@ -1,6 +1,6 @@
 id: lx_000065
-entry: kshanla
-phon: kʃanla
+entry: ksona
+phon: ksona
 morph_category: 
 morph_type: 
 part_of_speech: noun
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: kshanla
-    phon: kʃanla
+    morph: ksona
+    phon: ksona
 senses:
   se_01:
     id: se_01
-    gloss: stone
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: prayer
+    definition: "prayer"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

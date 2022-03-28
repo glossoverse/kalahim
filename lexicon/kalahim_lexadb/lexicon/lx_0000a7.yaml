@@ -1,6 +1,6 @@
 id: lx_0000a7
-entry: tansio
-phon: tansjo
+entry: tar
+phon: tar
 morph_category: 
 morph_type: 
 part_of_speech: noun
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: tansio
-    phon: tansjo
+    morph: tar
+    phon: tar
 senses:
   se_01:
     id: se_01
-    gloss: tooth
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: life
+    definition: "life"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27

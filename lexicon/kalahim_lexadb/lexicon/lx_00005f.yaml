@@ -1,9 +1,9 @@
 id: lx_00005f
-entry: kentoria
-phon: kentorja
+entry: ki
+phon: ki
 morph_category: 
 morph_type: 
-part_of_speech: noun
+part_of_speech: conjunction
 inflectional_features:
   class:
 etymology: NA
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: kentoria
-    phon: kentorja
+    morph: ki
+    phon: ki
 senses:
   se_01:
     id: se_01
-    gloss: catastrophe
-    definition: ""
-date_created: 2022-03-28 11:59:21
-date_modified: 2022-03-28 11:59:21
+    gloss: CONJ
+    definition: "CONJ"
+date_created: 2022-03-28 15:42:27
+date_modified: 2022-03-28 15:42:27
