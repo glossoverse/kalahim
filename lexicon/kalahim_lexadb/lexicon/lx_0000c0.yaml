@@ -1,9 +1,9 @@
-id: lx_0000b4
-entry: uhash-
-phon: uhaʃ
+id: lx_0000c0
+entry: iun
+phon: jun
 morph_category: 
 morph_type: 
-part_of_speech: verb
+part_of_speech: adjective
 inflectional_features:
   class:
 etymology: NA
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: uhash-
-    phon: uhaʃ
+    morph: iun
+    phon: jun
 senses:
   se_01:
     id: se_01
-    gloss: split
+    gloss: witty
     definition: ""
 date_created: 2022-03-28 11:59:21
 date_modified: 2022-03-28 11:59:21

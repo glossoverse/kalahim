@@ -1,6 +1,6 @@
 id: lx_000056
-entry: jap
-phon: dʒap
+entry: jaka
+phon: dʒaka
 morph_category: 
 morph_type: 
 part_of_speech: noun
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: jap
-    phon: dʒap
+    morph: jaka
+    phon: dʒaka
 senses:
   se_01:
     id: se_01
-    gloss: ashes
+    gloss: lake
     definition: ""
-date_created: 2022-03-28 09:56:42
-date_modified: 2022-03-28 09:56:42
+date_created: 2022-03-28 11:59:21
+date_modified: 2022-03-28 11:59:21

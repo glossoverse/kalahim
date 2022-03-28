@@ -1,6 +1,6 @@
 id: lx_00006d
-entry: maliman
-phon: maliman
+entry: lukle
+phon: lukle
 morph_category: 
 morph_type: 
 part_of_speech: noun
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: maliman
-    phon: maliman
+    morph: lukle
+    phon: lukle
 senses:
   se_01:
     id: se_01
-    gloss: moon
+    gloss: tongue
     definition: ""
-date_created: 2022-03-28 09:56:42
-date_modified: 2022-03-28 09:56:42
+date_created: 2022-03-28 11:59:21
+date_modified: 2022-03-28 11:59:21

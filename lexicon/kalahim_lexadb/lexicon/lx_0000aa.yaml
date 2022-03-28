@@ -1,6 +1,6 @@
 id: lx_0000aa
-entry: tero
-phon: tero
+entry: tarnen
+phon: tarnen
 morph_category: 
 morph_type: 
 part_of_speech: noun
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: tero
-    phon: tero
+    morph: tarnen
+    phon: tarnen
 senses:
   se_01:
     id: se_01
-    gloss: west
+    gloss: beginning
     definition: ""
-date_created: 2022-03-28 09:56:42
-date_modified: 2022-03-28 09:56:42
+date_created: 2022-03-28 11:59:21
+date_modified: 2022-03-28 11:59:21

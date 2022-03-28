@@ -1,9 +1,9 @@
 id: lx_00004c
-entry: hin
-phon: hin
+entry: himin
+phon: himin
 morph_category: 
 morph_type: 
-part_of_speech: adverb
+part_of_speech: noun
 inflectional_features:
   class:
 etymology: NA
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: hin
-    phon: hin
+    morph: himin
+    phon: himin
 senses:
   se_01:
     id: se_01
-    gloss: now
+    gloss: hour
     definition: ""
-date_created: 2022-03-28 09:56:42
-date_modified: 2022-03-28 09:56:42
+date_created: 2022-03-28 11:59:21
+date_modified: 2022-03-28 11:59:21

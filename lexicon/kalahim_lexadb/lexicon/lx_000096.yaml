@@ -1,9 +1,9 @@
 id: lx_000096
-entry: shaiet
-phon: ʃajet
+entry: shaka
+phon: ʃaka
 morph_category: 
 morph_type: 
-part_of_speech: verb
+part_of_speech: noun
 inflectional_features:
   class:
 etymology: NA
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: shaiet
-    phon: ʃajet
+    morph: shaka
+    phon: ʃaka
 senses:
   se_01:
     id: se_01
-    gloss: fear
+    gloss: nymph
     definition: ""
-date_created: 2022-03-28 09:56:42
-date_modified: 2022-03-28 09:56:42
+date_created: 2022-03-28 11:59:21
+date_modified: 2022-03-28 11:59:21

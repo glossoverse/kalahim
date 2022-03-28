@@ -1,9 +1,9 @@
 id: lx_00004d
-entry: hitar-
-phon: hitar
+entry: hin
+phon: hin
 morph_category: 
 morph_type: 
-part_of_speech: noun
+part_of_speech: adverb
 inflectional_features:
   class:
 etymology: NA
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: hitar-
-    phon: hitar
+    morph: hin
+    phon: hin
 senses:
   se_01:
     id: se_01
-    gloss: dance
+    gloss: now
     definition: ""
-date_created: 2022-03-28 09:56:42
-date_modified: 2022-03-28 09:56:42
+date_created: 2022-03-28 11:59:21
+date_modified: 2022-03-28 11:59:21

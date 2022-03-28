@@ -1,9 +1,9 @@
 id: lx_00000a
-entry: baha
-phon: baha
+entry: aum-
+phon: aum
 morph_category: 
 morph_type: 
-part_of_speech: noun
+part_of_speech: verb
 inflectional_features:
   class:
 etymology: NA
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: baha
-    phon: baha
+    morph: aum-
+    phon: aum
 senses:
   se_01:
     id: se_01
-    gloss: death
+    gloss: be.PRED
     definition: ""
-date_created: 2022-03-28 09:56:42
-date_modified: 2022-03-28 09:56:42
+date_created: 2022-03-28 11:59:21
+date_modified: 2022-03-28 11:59:21

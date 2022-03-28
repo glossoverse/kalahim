@@ -815,9 +815,9 @@
       "RemoteUsername": "stefanocoretta",
       "RemoteRepo": "lexa",
       "RemoteRef": "devel",
-      "RemoteSha": "8e30626904cb0fb76869599269441f17185fd72e",
+      "RemoteSha": "02e633f2f28a24fe95f0846c5031e238234a8de8",
       "RemoteHost": "api.github.com",
-      "Hash": "0e1732450bc0af94a6888561b359a3c2",
+      "Hash": "8bf5e0c8d58fb52ffdaeaabcf0dba6eb",
       "Requirements": [
         "cli",
         "crayon",

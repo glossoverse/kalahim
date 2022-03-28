@@ -1,9 +1,9 @@
 id: lx_0000b3
-entry: uhash-
-phon: uhaʃ
+entry: tyto
+phon: tito
 morph_category: 
 morph_type: 
-part_of_speech: verb
+part_of_speech: noun
 inflectional_features:
   class:
 etymology: NA
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: uhash-
-    phon: uhaʃ
+    morph: tyto
+    phon: tito
 senses:
   se_01:
     id: se_01
-    gloss: split
+    gloss: North
     definition: ""
-date_created: 2022-03-28 09:56:42
-date_modified: 2022-03-28 09:56:42
+date_created: 2022-03-28 11:59:21
+date_modified: 2022-03-28 11:59:21

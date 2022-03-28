@@ -1,6 +1,6 @@
 id: lx_0000ab
-entry: tety
-phon: teti
+entry: tero
+phon: tero
 morph_category: 
 morph_type: 
 part_of_speech: noun
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: tety
-    phon: teti
+    morph: tero
+    phon: tero
 senses:
   se_01:
     id: se_01
-    gloss: earth
+    gloss: west
     definition: ""
-date_created: 2022-03-28 09:56:42
-date_modified: 2022-03-28 09:56:42
+date_created: 2022-03-28 11:59:21
+date_modified: 2022-03-28 11:59:21

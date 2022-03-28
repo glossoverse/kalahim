@@ -1,9 +1,9 @@
 id: lx_00005d
-entry: kariof
-phon: karjof
+entry: kanen-
+phon: kanen
 morph_category: 
 morph_type: 
-part_of_speech: noun
+part_of_speech: verb
 inflectional_features:
   class:
 etymology: NA
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: kariof
-    phon: karjof
+    morph: kanen-
+    phon: kanen
 senses:
   se_01:
     id: se_01
-    gloss: thing
+    gloss: can
     definition: ""
-date_created: 2022-03-28 09:56:42
-date_modified: 2022-03-28 09:56:42
+date_created: 2022-03-28 11:59:21
+date_modified: 2022-03-28 11:59:21

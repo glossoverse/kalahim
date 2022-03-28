@@ -1,6 +1,6 @@
 id: lx_0000a5
-entry: sutar-
-phon: sutar
+entry: sulk-
+phon: sulk
 morph_category: 
 morph_type: 
 part_of_speech: verb
@@ -11,12 +11,12 @@ notes: NA
 allomorphs:
   al_01:
     id: al_01
-    morph: sutar-
-    phon: sutar
+    morph: sulk-
+    phon: sulk
 senses:
   se_01:
     id: se_01
-    gloss: know
+    gloss: blow
     definition: ""
-date_created: 2022-03-28 09:56:42
-date_modified: 2022-03-28 09:56:42
+date_created: 2022-03-28 11:59:21
+date_modified: 2022-03-28 11:59:21

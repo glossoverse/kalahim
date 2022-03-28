@@ -1,22 +1,22 @@
 id: lx_000008
-entry: ash-
-phon: aʃ
+entry: ari
+phon: ari
 morph_category: 
 morph_type: 
-part_of_speech: verb
+part_of_speech: noun
 inflectional_features:
   class:
 etymology: NA
-notes: NA
+notes: person's back
 allomorphs:
   al_01:
     id: al_01
-    morph: ash-
-    phon: aʃ
+    morph: ari
+    phon: ari
 senses:
   se_01:
     id: se_01
-    gloss: be
+    gloss: back
     definition: ""
-date_created: 2022-03-28 09:56:42
-date_modified: 2022-03-28 09:56:42
+date_created: 2022-03-28 11:59:21
+date_modified: 2022-03-28 11:59:21
