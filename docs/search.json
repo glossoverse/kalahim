@@ -12,51 +12,51 @@
   {
     "objectID": "ch-phonetology.html",
     "href": "ch-phonetology.html",
-    "title": "1  Phonology",
+    "title": "1  Phonetology",
     "section": "",
     "text": "1.1 Consonants\nKalahim has stops, fricatives, nasals, approximants, and a trill. Stops contrast by voicing, while the fricatives are all voiceless.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Phonology</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Phonetology</span>"
     ]
   },
   {
     "objectID": "ch-phonetology.html#consonants",
     "href": "ch-phonetology.html#consonants",
-    "title": "1  Phonology",
+    "title": "1  Phonetology",
     "section": "",
     "text": "labial\ndental\npalatal\nvelar\nglottal\n\n\n\n\nstop\np b\nt d\ntʃ dʒ\nk g\n\n\n\nfricative\nf\ns\nʃ\n\nh\n\n\nnasal\nm\nn\n\n\n\n\n\napproximant\nw\nl\nj\n\n\n\n\ntrill\n\nr\n\n\n\n\n\n\n\nThe approximant /w/ is always preceded by a consonant. For example: amua /amwa/, fuanen /fwanen/. Cf. **/wana/. Historical note: Single onset /w/ was lost everywhere, and the eventual resulting vowel combination became a diphthong or simplified to a simple vowel. Examples: reik- ‘to turn’ /reik/ &lt; *rewik-, iel- ‘to sing’ /jel/ &lt; /jail/ &lt; *yawal-.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Phonology</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Phonetology</span>"
     ]
   },
   {
     "objectID": "ch-phonetology.html#vowels",
     "href": "ch-phonetology.html#vowels",
-    "title": "1  Phonology",
+    "title": "1  Phonetology",
     "section": "1.2 Vowels",
     "text": "1.2 Vowels\nKalahim has a five-vowel system, with high, mid, and low heights, front, central, and back backness. Note that the mid vowels are both mid-high.\n\n\n\n\nfront\ncentral\nback\n\n\n\n\nhigh\ni\n\nu\n\n\nmid\ne\n\no\n\n\nlow\n\na\n\n\n\n\nThere are also the following diphthongs: /ei/, /eu/.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Phonology</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Phonetology</span>"
     ]
   },
   {
     "objectID": "ch-phonetology.html#phonotactics",
     "href": "ch-phonetology.html#phonotactics",
-    "title": "1  Phonology",
+    "title": "1  Phonetology",
     "section": "1.3 Phonotactics",
     "text": "1.3 Phonotactics\nThe basic syllabic structure of Kalahim is C(C)V(C). Onsetless syllables are only permitted in word-initial position. Independent of syllabic affiliation, no more than two consecutive consonants are allowed in any position in the word. Any consonant, except /tʃ/ and /dʒ/, can be word-final.\nAllowed onset clusters:\n\npr, pl, pw, pj\ntr, tl, tw, tj\nkr, kl, kw, kj, ks, kʃ\nbr, bl, bw, bj\ndr, dl, dw, dj\ngr, gl, gw, gj\nsp, st, sk, sw, sj\nʃp, ʃt, ʃk, ʃl, ʃw, ʃj\nfl, fr, fw, fj\nhw, hj\nmw, mj\nnw, nj\nrw, rj\nlw, lj",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Phonology</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Phonetology</span>"
     ]
   },
   {
     "objectID": "ch-phonetology.html#stress",
     "href": "ch-phonetology.html#stress",
-    "title": "1  Phonology",
+    "title": "1  Phonetology",
     "section": "1.4 Stress",
     "text": "1.4 Stress\nStress is intensive and it falls always on the penultimate syllable of the word in plurisyllabic words, and in the only syllable of monosyllabic words.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Phonology</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Phonetology</span>"
     ]
   },
   {
@@ -85,7 +85,7 @@
     "href": "ch-verbs.html",
     "title": "4  Verbs",
     "section": "",
-    "text": "4.1 Copula\nRevision: Verbs end in vowel (are there C-final verbs? what about nouns?). In the Present, the vowel coalesces with the Present Tense suffix -u: a-u &gt; o, e-u &gt; ie, i-u &gt; y, o-u &gt; o, u-u &gt; u. Past and Future are analytic? Past uses lusho ‘to go’ as auxiliary (new ‘to go’ is different). Future is just the verb stem plus the Subj suffixes.\nInfinitive: -sh (&lt; -tʲ). Hypothetical from -bʷi, a form of future?\nPassive: it was -s, now it has Non-Past form (Present and Future) which is original Gnomic (that takes on future meaning in Active). Passive Past is with auxiliary dlanti ‘to come’.\nreika ‘to turn’\nLango (done)ganis nide.// lan-go (done)gani-s ni-de// PST:PASS-1sg save-PASS.PRT 2s-ABL:SG// `I was saved by you.’//\nPresent participles are formed with the suffix -m which is attached to the verb root and they can be declined according the to consonant declination.\nCatieni shonamen// catie-ni shona-m-en// person-GEN:SG think-PTCP-GEN:SG// `Of the thinking person.’//\nThere are two copulas in Kalahim, om- (&lt; aumi-) and ash- (&lt; ashi-). The first is used with the Predicative case and refers to a permanent or substantial feature of the subject. For example, omy ned-es ‘I am (a) man’. ash- is used with temporary states and feelings, like in ashe cul ‘it is sweet’.\nPresent should have stem in -ie but it is reduced to -e because of preceding -sh (only when unstressed).",
+    "text": "4.1 Copula\nreika ‘to turn’\nPresent participles are formed with the suffix -m which is attached to the verb root and they can be declined according the to consonant declination.\nThere are two copulas in Kalahim, om- (&lt; aumi-) and ash- (&lt; ashi-). The first is used with the Predicative case and refers to a permanent or substantial feature of the subject. For example, omy ned-es ‘I am (a) man’. ash- is used with temporary states and feelings, like in ashe cul ‘it is sweet’.\nPresent should have stem in -ie but it is reduced to -e because of preceding -sh (only when unstressed).",
     "crumbs": [
       "Morphosyntax",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Verbs</span>"
@@ -107,7 +107,7 @@
     "href": "ch-verbs.html#locative-om-",
     "title": "4  Verbs",
     "section": "4.2 Locative om-",
-    "text": "4.2 Locative om-\nThe verb om-, which means ‘to be in some place’ derives from aum-, although its paradigm has regularised and follows the default verbal conjugation. In the 3rd Neuter Singular and Plural it is also used together with the Predicative case as an expletive to mean ‘There is/are’.\nOmogo Limlin’ija.// omo-go Limlin’-ija// be.LOC.PRS-1s Limlin-LOC:SG// `I am in Limlin.’// \nLuesah omis jekines.// luesah omi-s jeki-nes// PST.3pl.N be.EXPL-PST.PRTC monkey-PRED:PL// `There were (some) monkeys.’//",
+    "text": "4.2 Locative om-\nThe verb om-, which means ‘to be in some place’ derives from aum-, although its paradigm has regularised and follows the default verbal conjugation. In the 3rd Neuter Singular and Plural it is also used together with the Predicative case as an expletive to mean ‘There is/are’.\n\n(3) \n\nOmogo Limlin’ija.\nomo-go Limlin’-ija\nbe.LOC.PRS-1s Limlin-LOC:SG\n‘I am in Limlin.’\n\n\n\n\n(4) \n\nLuesah omis jekines.\nluesah omi-s jeki-nes\nPST.3pl.N be.EXPL-PST.PRTC monkey-PRED:PL\n‘There were (some) monkeys.’",
     "crumbs": [
       "Morphosyntax",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Verbs</span>"
@@ -118,7 +118,7 @@
     "href": "ch-verbs.html#negation",
     "title": "4  Verbs",
     "section": "4.3 Negation",
-    "text": "4.3 Negation\nA verb is negated by placing the negative adverb an after the verb.\nDlantigo an fladriba.// dlanti-go an fladri-ba// come.FUT-1s NEG forest-ALL:SG// `I will not come to the forest.’//",
+    "text": "4.3 Negation\nA verb is negated by placing the negative adverb an after the verb.\n\n(5) \n\nDlantigo an fladriba.\ndlanti-go an fladri-ba\ncome.FUT-1s NEG forest-ALL:SG\n‘I will not come to the forest.’",
     "crumbs": [
       "Morphosyntax",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Verbs</span>"

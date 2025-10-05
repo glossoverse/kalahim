@@ -1,10 +1,14 @@
 # Verbs
 
+::: callout-note
+
 *Revision*: Verbs end in vowel (are there C-final verbs? what about nouns?). In the Present, the vowel coalesces with the Present Tense suffix *-u*: a-u > o, e-u > ie, i-u > y, o-u > o, u-u > u. Past and Future are analytic? Past uses *lusho* 'to go' as auxiliary (new 'to go' is different). Future is just the verb stem plus the Subj suffixes.
 
 Infinitive: -sh (< -tʲ). Hypothetical from -bʷi, a form of future?
 
 Passive: it was -s, now it has Non-Past form (Present and Future) which is original Gnomic (that takes on future meaning in Active). Passive Past is with auxiliary *dlanti* 'to come'.
+
+:::
 
 *reika* 'to turn'
 
@@ -34,19 +38,25 @@ Passive: it was -s, now it has Non-Past form (Present and Future) which is origi
 | 3plf    | reika-shis | leshi reika-s |
 | 3pln    | reika-ses  | lesah reika-s |
 
-\ex \begingl \glpreamble Lango (done)ganis nide.//
-\gla lan-go       (done)gani-s     ni-de//
-\glb PST:PASS-1sg save-PASS.PRT  2s-ABL:SG//
-\glft `I was saved by you.'//
-\endgl \xe
+:::: ex
+::: gl
+| - Lango (done)ganis nide.
+| lan-go (done)gani-s ni-de
+| PST:PASS-1sg save-PASS.PRT  2s-ABL:SG
+| 'I was saved by you.'
+:::
+::::
 
 Present participles are formed with the suffix -*m* which is attached to the verb root and they can be declined according the to consonant declination.
 
-\ex \begingl \glpreamble Catieni shonamen//
-\gla catie-ni      shona-m-en//
-\glb person-GEN:SG think-PTCP-GEN:SG//
-\glft `Of the thinking person.'//
-\endgl \xe
+:::: ex
+::: gl
+| - Catieni shonamen.
+| catie-ni shona-m-en
+| person-GEN:SG think-PTCP-GEN:SG
+| 'Of the thinking person.'
+:::
+::::
 
 ## Copula
 
@@ -84,24 +94,33 @@ Present should have stem in -ie but it is reduced to -e because of preceding -sh
 
 The verb *om-*, which means 'to be in some place' derives from *aum-*, although its paradigm has regularised and follows the default verbal conjugation. In the 3rd Neuter Singular and Plural it is also used together with the Predicative case as an expletive to mean 'There is/are'.
 
-\ex \begingl \glpreamble Omogo Limlin'ija.//
-\gla omo-go         Limlin'-ija//
-\glb be.LOC.PRS-1s  Limlin-LOC:SG//
-\glft `I am in Limlin.'//
-\endgl \xe
+:::: ex
+::: gl
+| - Omogo Limlin'ija.
+| omo-go Limlin'-ija
+| be.LOC.PRS-1s Limlin-LOC:SG
+| 'I am in Limlin.'
+:::
+::::
 
-\ex \begingl \glpreamble Luesah omis jekines.//
-\gla luesah omi-s jeki-nes//
-\glb PST.3pl.N be.EXPL-PST.PRTC monkey-PRED:PL//
-\glft `There were (some) monkeys.'//
-\endgl \xe
+:::: ex
+::: gl
+| - Luesah omis jekines.
+| luesah omi-s jeki-nes
+| PST.3pl.N be.EXPL-PST.PRTC monkey-PRED:PL
+| 'There were (some) monkeys.'
+:::
+::::
 
 ## Negation
 
 A verb is negated by placing the negative adverb *an* after the verb.
 
-\ex \begingl \glpreamble Dlantigo an fladriba.//
-\gla dlanti-go an fladri-ba//
-\glb come.FUT-1s NEG forest-ALL:SG//
-\glft `I will not come to the forest.'//
-\endgl \xe
+:::: ex
+::: gl
+| - Dlantigo an fladriba.
+| dlanti-go an fladri-ba
+| come.FUT-1s NEG forest-ALL:SG
+| 'I will not come to the forest.'
+:::
+::::

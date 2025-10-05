@@ -26,5 +26,5 @@ format:
       - cosmo
       - brand
 
-
+filters: ["interlinear"]
 
