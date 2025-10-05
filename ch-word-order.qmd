@@ -1,0 +1,9 @@
+# Word order
+
+The general word order is SVO. Complements follow the noun they refer to, but adjectives precede it.
+
+\ex \begingl \glpreamble Blin manai acaroni.//
+\gla blin mainai acaro-ni//
+\glb strong warrior east-GEN:SG//
+\glft `The strong warrior of the East.'//
+\endgl \xe

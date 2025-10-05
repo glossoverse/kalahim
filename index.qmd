@@ -1,0 +1,9 @@
+# Preface {.unnumbered}
+
+This is the reference grammar of Kalahim, a conlang from the [Glossoverse](https://glossoverse.github.io) by Stefano Coretta.
+
+<br>
+
+::: {style="font-size: 10px;"}
+© 2025 Stefano Coretta. All rights reserved. No content from this website may be copied, reproduced, or distributed without prior written consent.
+:::

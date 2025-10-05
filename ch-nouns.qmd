@@ -1,0 +1,31 @@
+# Nouns
+
+Nouns end either in a vowel or a consonant and follow their respective class declension. Archaic forms of suffixes are given in square brackets. The predicative plural ending has two forms, -*nes* and -*nesse* which tend to be respectively the standard in the spoken and written language.
+
+The predicative is used with the verb *aum-* 'to be', which has an existential meaning (while *ash*- is more generally stative).
+
+| vowel         | singular       |   plural       |
+|---------------|----------------|----------------|
+| nominative    | [varies]       | -m             |
+| accusative    | -l [arc. -lu]  | -le [arc.-leo] |
+| predicative   | -sse           | -nes(se)       |
+| dative        | -vo            | -vi            |
+| instrumental  | -ru [arc.-kru] | -du [arc.-dru] |
+| genitive      | -ni [arc.-nig] | -nek           |
+| locative      | -ja [arc.-jai] | -ce            |
+| allative      | -ba            | -pe            |
+| ablative      | -da [arc.-de]  | -te            |
+| vocative      | -ku            | -ho            |
+
+| consonant     | singular        | plural           |
+|---------------|-----------------|------------------|
+| nominative    | [varies]        | -am              |
+| accusative    | -olu            | -elo             |
+| predicative   | -es [arc.-esse] | -enes            |
+| dative        | -ol             | -ive             |
+| instrumental  | -ur [arc.-ruk]  | -udu [arc.-udru] |
+| genitive      | -en             | -ek              |
+| locative      | -ija            | -ice             |
+| allative      | -iba            | -ipe             |
+| ablative      | -ida [arc.-eda] | -ete             |
+| vocative      | -uk             | -oho             |

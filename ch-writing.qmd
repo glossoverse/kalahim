@@ -1,0 +1,24 @@
+# Writing system
+
+The transliteration is as follows.
+
+Consonants:
+
+|             | labial | dental | palatal | velar | glottal |
+|-------------|--------|--------|---------|-------|---------|
+| stop        | p b    | t d    | c j     | k g   |         |
+| fricative   | f      | s      | sh      |       | h       |
+| nasal       | m      | n      |         |       |         |
+| approximant | u      | l      | i       |       |         |
+| trill       |        | r      |         |       |         |
+
+Vowels:
+
+|      | front | central | back |
+|------|-------|---------|------|
+| high | i/y   |         | u    |
+| mid  | e/ai  |         | o/au |
+| low  |       | a       |      |
+
+* [i, e, o] are written as ⟨i, e, o⟩ and ⟨y, ai, au⟩ for historical reasons.
+  * Alternative transliterations for ⟨ai, au⟩ are ⟨ê, ô⟩.

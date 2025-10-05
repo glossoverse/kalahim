@@ -1,0 +1,30 @@
+project:
+  type: book
+  execute-dir: project
+  output-dir: docs
+
+book:
+  title: "Kalahim"
+  author: "Stefano Coretta"
+  date: "10/5/2025"
+  chapters:
+    - index.qmd
+    - ch-phonetology.qmd
+    - ch-writing.qmd
+    - part: "Morphosyntax"
+      chapters: 
+        - ch-word-order.qmd
+        - ch-verbs.qmd
+        - ch-nouns.qmd
+
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+
+
+

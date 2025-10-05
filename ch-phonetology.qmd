@@ -1,0 +1,53 @@
+# Phonology
+
+## Consonants
+
+Kalahim has stops, fricatives, nasals, approximants, and a trill. Stops contrast by voicing, while the fricatives are all voiceless.
+
+|             | labial | dental | palatal | velar | glottal |
+|-------------|--------|--------|---------|-------|---------|
+| stop        | p b    | t d    | tʃ dʒ   | k g   |         |
+| fricative   | f      | s      | ʃ       |       | h       |
+| nasal       | m      | n      |         |       |         |
+| approximant | w      | l      | j       |       |         |
+| trill       |        | r      |         |       |         |
+
+1. The approximant /w/ is always preceded by a consonant. For example: *amua* /amwa/, *fuanen* /fwanen/. Cf. \*\*/wana/. Historical note: Single onset /w/ was lost everywhere, and the eventual resulting vowel combination became a diphthong or simplified to a simple vowel. Examples: *reik-* 'to turn' /reik/ < *\*rewik-*, *iel*- 'to sing' /jel/ < /jail/ < *\*yawal-*.
+
+## Vowels
+
+Kalahim has a five-vowel system, with high, mid, and low heights, front, central, and back backness. Note that the mid vowels are both mid-high.
+
+|      | front | central | back |
+|------|-------|---------|------|
+| high | i     |         | u    |
+| mid  | e     |         | o    |
+| low  |       | a       |      |
+
+There are also the following diphthongs: /ei/, /eu/.
+
+## Phonotactics
+
+The basic syllabic structure of Kalahim is C(C)V(C). Onsetless syllables are only permitted in word-initial position. Independent of syllabic affiliation, no more than two consecutive consonants are allowed in any position in the word.
+Any consonant, except /tʃ/ and /dʒ/, can be word-final.
+
+Allowed onset clusters:
+
+* pr, pl, pw, pj
+* tr, tl, tw, tj
+* kr, kl, kw, kj, ks, kʃ
+* br, bl, bw, bj
+* dr, dl, dw, dj
+* gr, gl, gw, gj
+* sp, st, sk, sw, sj
+* ʃp, ʃt, ʃk, ʃl, ʃw, ʃj
+* fl, fr, fw, fj
+* hw, hj
+* mw, mj
+* nw, nj
+* rw, rj
+* lw, lj
+
+## Stress
+
+Stress is intensive and it falls always on the penultimate syllable of the word in plurisyllabic words, and in the only syllable of monosyllabic words.
