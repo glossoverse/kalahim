@@ -1,0 +1,10 @@
+id: cl_000001
+title: "Example sentences"
+sentences:
+  st_000001:
+    id: "st_000001"
+    sentence: "Nem korashielo mol noirgahielo lonu voinielo."
+    phonetic: "nem koraʃjelo noirgaçjelo lonu voinjelo"
+    morphemes: "nem korash-ie-lo mol noirgah-ie-lo lonu voin-ie-lo"
+    gloss: "yesterday be.hapy-PST-3sm GRND  see-PST-3sm boy.NOM play-PST-3sm"
+    translation: "Yesterday he rejoiced in seeing the boy who was playing."
