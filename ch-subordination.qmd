@@ -48,7 +48,7 @@ Subject complement clauses are preceded by an independent clause of the form 'be
 ::: gl
 | - Nem korashielo mol noirgahielo lonu voinielo.
 | nem       korash-ie-lo    mol   noirgah-ie-lo lonu    voin-ie-lo
-| yesterday be.hapy-PST-3sm GRND  see-PST-3sm   boy.NOM play-PST-3sm
+| yesterday be.happy-PST-3sm GRND  see-PST-3sm   boy.NOM play-PST-3sm
 | 'Yesterday he rejoiced in seeing the boy who was playing.'
 :::
 ::::
