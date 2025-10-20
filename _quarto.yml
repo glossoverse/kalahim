@@ -16,6 +16,7 @@ book:
         - ch-word-order.qmd
         - ch-verbs.qmd
         - ch-nouns.qmd
+        - ch-subordination.qmd
 
 
 bibliography: references.bib

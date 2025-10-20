@@ -134,5 +134,16 @@
       "Morphosyntax",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Nouns</span>"
     ]
+  },
+  {
+    "objectID": "ch-subordination.html",
+    "href": "ch-subordination.html",
+    "title": "6  Subordination",
+    "section": "",
+    "text": "Complement clauses are introduced by the particle nai. All complement clauses are finite (they always have a finite verb).\n\n(1) \n\nKabasiesu nai korashiego.\nkabas-ie-su nai korash-ie-go\nknow-PST-3plm SUB be.happy-PST-1s\n‘They knew I was/have been happy.’\n\n\n\n\n(2) \n\nTokago nai noirgah-a-go nil.\ntok-a-go nai sibu-a-go ni-l\nwant-PRS-1s SUB meet-PRS-1s 2s-ACC:SG\n‘I want to meet you.’\n\n\n\nSubject complement clauses are preceded by an independent clause of the form ‘be.PRED + ADJ/PTCP’.\n\n(3) \n\nOmalah pushaitam nai sibuemin.\nom-a-lah pushait-am nai sibu-o-min\nbe.PRED-PRS-3sn scare-PTCP SUB meet-PST-1pl\n‘It scares me that we will meet.’\n\n\n\nAdverbial clauses are introduced by a variety of adverbial subordinating conjunctions.\nRelative clauses are introduced by ki and a resumptive pronoun is used. The resumptive pronoun in the relative clause is in the case and position it would be if the clause were independent. A nominative resumptive pronoun is generally omitted. If the antecedent is the object of the main clause and the subject of the relative clause, ki and the subject pronoun are omitted and the antecedent is in the nominative case.\n\n(4) \n\nLonum ki voinalo korashalo.\nlonu-m ki voin-a-lo korash-a-lo\nboy-PL REL play-PRS-3sm be.happy-PRS-3sm\n‘The boy who plays is happy.’\n\n\n\n\n(5) \n\nNem korashielo mol noirgahielo lonu voinielo.\nnem korash-ie-lo mol noirgah-ie-lo lonu voin-ie-lo\nyesterday be.hapy-PST-3sm GRND see-PST-3sm boy.NOM play-PST-3sm\n‘Yesterday he rejoiced in seeing the boy who was playing.’\n\n\n\nCf. with the object complement clause Nem korashielo mol noirgahielo nai lonu voinielo ‘Yesterday he rejoiced in seeing that the boy was playing.’\n\n(6) \n\nFirkiniego catieru ki noirgahieni laholu.\nfirkin-ie-go catie-ru ki noirgah-ie-ni lah-olu\nspeak-PST-1s person-INST:SG REL see-PST-2s 3sn-ACC:SG\n‘I spoke with the person you saw.’\n\n\n\n\n(7) \n\nNoirgahiego catiel ki firkinieni lahur.\nnoirgah-ie-go catie-l ki firkin-ie-ni lah-ur\nsee-PST-1s person-ACC:SG REL speak-PST-2s 3sn-INST:SG\n‘I saw the person you spoke to.’",
+    "crumbs": [
+      "Morphosyntax",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Subordination</span>"
+    ]
   }
 ]
